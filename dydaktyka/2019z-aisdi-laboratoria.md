@@ -28,7 +28,7 @@ Laboratoria polegają na rozwiązywaniu przedstawionych zadań w zespołach dwuo
 * Rozwiązania zadań laboratoryjnych muszą zostać zaprezentowane na konsultacjach prowadzącemu, do którego są Państwo przypisani w systemie USOS. Drugim prowadzącym laboratoria jest Waldemar Grabski. Grupy mieszane mogą wybrać prowadzącego.
 * Przy prezentacji zadania powinien być obecny cały zespół.
 * Na konsultacje należy zapisać się w [kalendarzu](https://calendly.com/karolpiczak/) \(terminy udostępniane są na najbliższe dwa tygodnie\).
-* Przy zapisywaniu się należy podać link do repozytorium na [wydziałowym GitLabie](https://gitlab-stud.elka.pw.edu.pl/) z prawem odczytu dla [@karolpiczak](https://gitlab-stud.elka.pw.edu.pl/karolpiczak).
+* Przy zapisywaniu się należy podać link do repozytorium na [wydziałowym GitLabie](https://gitlab-stud.elka.pw.edu.pl/) z prawem odczytu (poziom [Reporter](https://gitlab-stud.elka.pw.edu.pl/help/user/permissions) lub wyższy) dla [@karolpiczak](https://gitlab-stud.elka.pw.edu.pl/karolpiczak).
 * Zadania można zdawać do ostatnich zajęć laboratoryjnych. Proszę jednak uwzględnić mniejszą dostępność terminów pod koniec semestru.
 
 {% hint style="info" %}
