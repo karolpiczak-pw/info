@@ -27,13 +27,13 @@ Laboratoria polegają na rozwiązywaniu przedstawionych zadań w zespołach dwuo
 
 | Punktacja | Wymagania względem rozwiązania |
 | :--- | :--- |
-| 6 p. | poprawne i kompletne rozwiązanie zadania  |
-| 5 p. | rozwiązanie kompletne z niewielkimi uchybieniami \(wydajność, przypadki skrajne\) |
-| 4 p. | nieliczne błędy implementacyjne o większym znaczeniu, schemat rozwiązania poprawny i kompletny, rozwiązanie wykazuje zrozumienie materiału |
-| 3 p. | realizacja części zadania, liczne błędy w implementacji |
-| 2 p. | realizacja małej części zadania, liczne błędy w implementacji |
-| 1 p. | realizacja minimalnego zakresu funkcjonalności, bardzo liczne błędy w implementacji |
-| 0 p. | brak zgłoszonego rozwiązania |
+| 6 pkt. | poprawne i kompletne rozwiązanie zadania  |
+| 5 pkt. | rozwiązanie kompletne z niewielkimi uchybieniami \(wydajność, przypadki skrajne\) |
+| 4 pkt. | nieliczne błędy implementacyjne o większym znaczeniu, schemat rozwiązania poprawny i kompletny, rozwiązanie wykazuje zrozumienie materiału |
+| 3 pkt. | realizacja części zadania, liczne błędy w implementacji |
+| 2 pkt. | realizacja małej części zadania, liczne błędy w implementacji |
+| 1 pkt | realizacja minimalnego zakresu funkcjonalności, bardzo liczne błędy w implementacji |
+| 0 pkt. | brak zgłoszonego rozwiązania |
 
 {% hint style="info" %}
 Styl kodu oceniany jest w sposób binarny: **akceptowalny \(0\)**, **niewystarczający \(-1\)**.
