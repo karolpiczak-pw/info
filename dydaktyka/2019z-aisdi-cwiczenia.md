@@ -17,7 +17,7 @@ Zajęcia odbywają się co dwa tygodnie. W ramach ćwiczeń do zdobycia jest 20 
 * 15 punktów - kolokwium,
 * 5 punktów - aktywność, prezentacje, zadania domowe.
 
-Punkty za aktywność przyznawane są za rozwiązywanie zadań w trakcie zajęć, aktywny udział w dyskusji lub prezentację algorytmu \(do zdobycia jeden punkt na spotkanie\). Dodatkowo można zgłaszać rozwiązania zadań domowych. Maksymalnie można zgłosić trzy zadania domowe do oceny \(każde za jeden punkt\). 
+Punkty za aktywność przyznawane są za rozwiązywanie zadań w trakcie zajęć, aktywny udział w dyskusji lub prezentację algorytmu \(do zdobycia jeden punkt na spotkanie\). Dodatkowo można zgłaszać rozwiązania zadań domowych. Maksymalnie można zgłosić trzy zadania domowe do oceny \(każde za jeden punkt\).
 
 | Lp. | Tematyka zajęć |
 | :--- | :--- |
@@ -31,7 +31,7 @@ Punkty za aktywność przyznawane są za rozwiązywanie zadań w trakcie zajęć
 
 ## Zasady zgłaszania zadań domowych
 
-Rozwiązania zadań należy zgłaszać przez udostępnienie repozytorium na wydziałowym serwerze GitLab i przydzielenie _merge request_ [prowadzącemu](https://gitlab-stud.elka.pw.edu.pl/karolpiczak), analogicznie do [zasad na laboratoriach](https://pw.karolpiczak.com/dydaktyka/2019z-aisdi-laboratoria#udostepnianie-rozwiazan-przez-gitlab). _Merge request_ proszę zatytułować  `HW X: Nazwisko`.
+Rozwiązania zadań należy zgłaszać przez udostępnienie repozytorium na wydziałowym serwerze GitLab i przydzielenie _merge request_ [prowadzącemu](https://gitlab-stud.elka.pw.edu.pl/karolpiczak), analogicznie do [zasad na laboratoriach](https://pw.karolpiczak.com/dydaktyka/2019z-aisdi-laboratoria#udostepnianie-rozwiazan-przez-gitlab). _Merge request_ proszę zatytułować `HW X: Nazwisko`.
 
 **Termin na zgłaszanie zadań:** do kolokwium
 
@@ -59,6 +59,6 @@ Zaimplementuj program, który:
   _selection sort_ i strukturę listy.
 
 {% hint style="info" %}
-Sugerowane oznaczenia kolorów:  **S**♠  **H**♥  **D**♦  **C**♣ ****
+Sugerowane oznaczenia kolorów: **S**♠ **H**♥ **D**♦ **C**♣ 
 {% endhint %}
 
