@@ -27,13 +27,13 @@ Laboratoria polegają na rozwiązywaniu przedstawionych zadań w zespołach dwuo
 
 | Punktacja | Wymagania względem rozwiązania |
 | :--- | :--- |
-| 6 punktów | poprawne i kompletne rozwiązanie zadania  |
-| 5 punktów | rozwiązanie kompletne z niewielkimi uchybieniami \(wydajność, przypadki skrajne\) |
-| 4 punkty | nieliczne błędy implementacyjne o większym znaczeniu, schemat rozwiązania poprawny i kompletny, rozwiązanie wykazuje zrozumienie materiału |
-| 3 punkty | realizacja części zadania, liczne błędy w implementacji |
-| 2 punkty | realizacja małej części zadania, liczne błędy w implementacji |
-| 1 punkt | realizacja minimalnego zakresu funkcjonalności, bardzo liczne błędy w implementacji |
-| 0 punktów | brak zgłoszonego rozwiązania |
+| 6 p. | poprawne i kompletne rozwiązanie zadania  |
+| 5 p. | rozwiązanie kompletne z niewielkimi uchybieniami \(wydajność, przypadki skrajne\) |
+| 4 p. | nieliczne błędy implementacyjne o większym znaczeniu, schemat rozwiązania poprawny i kompletny, rozwiązanie wykazuje zrozumienie materiału |
+| 3 p. | realizacja części zadania, liczne błędy w implementacji |
+| 2 p. | realizacja małej części zadania, liczne błędy w implementacji |
+| 1 p. | realizacja minimalnego zakresu funkcjonalności, bardzo liczne błędy w implementacji |
+| 0 p. | brak zgłoszonego rozwiązania |
 
 {% hint style="info" %}
 Styl kodu oceniany jest w sposób binarny: **akceptowalny \(0\)**, **niewystarczający \(-1\)**.
@@ -65,8 +65,8 @@ Na pojedynczych konsultacjach możliwe jest ocenienie więcej niż jednego zadan
 * Rozwiązanie należy sporządzać w prywatnym repozytorium zawierającym w nazwie dane członków zespołu \(`nazwisko1-nazwisko2`, małymi literami\).
 * Repozytorium powinno zawierać co najmniej dwie gałęzie - roboczą i pustą \(np. `master` i `grade`\).
 * Po zakończeniu prac nad zadaniem należy:
-  * udostępnić repozytorium prowadzącemu \([@karolpiczak](https://gitlab-stud.elka.pw.edu.pl/karolpiczak) lub [@wgrabski](https://gitlab-stud.elka.pw.edu.pl/wgrabski)\) z [uprawnieniami](https://docs.gitlab.com/ee/user/permissions.html) na poziomie `Developer` ,
-  * [utworzyć nowy _merge request_ ](https://docs.gitlab.com/ee/gitlab-basics/add-merge-request.html)z gałęzi roboczej do gałęzi pustej \(np. `master -> grade`\),
+  * udostępnić repozytorium prowadzącemu \([@karolpiczak](https://gitlab-stud.elka.pw.edu.pl/karolpiczak) lub [@wgrabski](https://gitlab-stud.elka.pw.edu.pl/wgrabski)\) z [uprawnieniami](https://docs.gitlab.com/ee/user/permissions.html) na poziomie `Developer`,
+  * [utworzyć nowy _merge request_](https://docs.gitlab.com/ee/gitlab-basics/add-merge-request.html) z gałęzi roboczej do gałęzi pustej \(np. `master -> grade`\),
   * zatytułować _merge request_ jako `Lab X: Nazwisko1-Nazwisko2`, gdzie `X` jest numerem zajęć,
   * przydzielić tak utworzony _merge request_ prowadzącemu \(jako `Assignee`\).
 
