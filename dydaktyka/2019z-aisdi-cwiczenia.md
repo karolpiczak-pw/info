@@ -31,7 +31,7 @@ Punkty za aktywność przyznawane są za rozwiązywanie zadań w trakcie zajęć
 
 ## Zasady zgłaszania zadań domowych
 
-Rozwiązania zadań należy zgłaszać przez udostępnienie repozytorium na wydziałowym serwerze GitLab i przydzielenie _merge request_ [prowadzącemu](https://gitlab-stud.elka.pw.edu.pl/karolpiczak), analogicznie do [zasad na laboratoriach](https://pw.karolpiczak.com/dydaktyka/2019z-aisdi-laboratoria#udostepnianie-rozwiazan-przez-gitlab). _Merge request_ proszę zatytułować  `HW X: Nazwisko`
+Rozwiązania zadań należy zgłaszać przez udostępnienie repozytorium na wydziałowym serwerze GitLab i przydzielenie _merge request_ [prowadzącemu](https://gitlab-stud.elka.pw.edu.pl/karolpiczak), analogicznie do [zasad na laboratoriach](https://pw.karolpiczak.com/dydaktyka/2019z-aisdi-laboratoria#udostepnianie-rozwiazan-przez-gitlab). _Merge request_ proszę zatytułować  `HW X: Nazwisko`.
 
 **Termin na zgłaszanie zadań:** do kolokwium
 
