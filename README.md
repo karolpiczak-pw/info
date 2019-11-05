@@ -9,7 +9,6 @@ Adiunkt, [Zakład Sztucznej Inteligencji](http://ai.ii.pw.edu.pl/), [Instytut In
 * [karol.piczak@pw.edu.pl](mailto:karol.piczak@pw.edu.pl)  
 * p. 26, gmach WEiTI \(parter\)  
 
-
 ## Konsultacje
 
 W semestrze zimowym 2019/2020:
@@ -19,16 +18,8 @@ W semestrze zimowym 2019/2020:
 
 ## Dane kontaktowe
 
-[Politechnika Warszawska  
+[Politechnika Warszawska    
 ](https://www.pw.edu.pl/)[Wydział Elektroniki i Technik Informacyjnych](http://www.elka.pw.edu.pl/)  
 ul. Nowowiejska 15/19  
 00-665 Warszawa
-
-
-
-
-
-
-
-
 
