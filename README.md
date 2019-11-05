@@ -6,7 +6,7 @@ dr Karol Jerzy Piczak
 Adiunkt, [Zakład Sztucznej Inteligencji](http://ai.ii.pw.edu.pl/), [Instytut Informatyki](http://ii.pw.edu.pl)
 
 ℹ [https://pw.karolpiczak.com](https://pw.karolpiczak.com)  
-📧 [k.piczak@ii.pw.edu.pl](mailto:k.piczak@ii.pw.edu.pl)  
+📧 [karol.piczak@pw.edu.pl](mailto:karol.piczak@pw.edu.pl)  
 🏢 p. 26, gmach WEiTI \(parter\)  
 
 
