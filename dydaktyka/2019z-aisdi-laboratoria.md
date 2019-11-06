@@ -52,21 +52,10 @@ Błędy dostępu do pamięci \(odwoływanie się do nieważnego wskaźnika\) tra
 * Rozwiązania zadań laboratoryjnych muszą zostać zaprezentowane na konsultacjach prowadzącemu, do którego są Państwo przypisani w systemie USOS. Grupy mieszane mogą wybrać prowadzącego. Drugim prowadzącym laboratoria jest Waldemar Grabski.
 * Przy prezentacji zadania powinien być obecny cały zespół.
 * Na konsultacje należy zapisać się w [kalendarzu](https://calendly.com/karolpiczak/) \(terminy udostępniane są na najbliższe dwa tygodnie\).
-* Przy zapisywaniu się należy podać link do repozytorium na [wydziałowym GitLabie](https://gitlab-stud.elka.pw.edu.pl/) ze zgłoszonym _merge request_ sporządzonym według dalszych instrukcji.
+* Przy zapisywaniu się **należy podać link do repozytorium na** [**wydziałowym GitLabie**](https://gitlab-stud.elka.pw.edu.pl/) **ze zgłoszonym** _**merge request**_ **sporządzonym** [**według instrukcji**](https://files.pw.karolpiczak.com/Instrukcja-GitLab.pdf)**.** Tytuł _merge requesta `AISDI-LAB X: Nazwisko1-Nazwisko2`._
 * Zadania można zdawać do ostatnich zajęć laboratoryjnych. Proszę jednak uwzględnić mniejszą dostępność terminów pod koniec semestru.
 
 {% hint style="info" %}
 Na pojedynczych konsultacjach możliwe jest ocenienie więcej niż jednego zadania, z tym że będzie to zależało od ilości uwag i dostępnego czasu. Zwłaszcza w takim przypadku proszę o wcześniejszy kontakt - część uwag postaram się przekazać na zasadzie code review przez GitLab.
 {% endhint %}
-
-## Udostępnianie rozwiązań przez GitLab
-
-* Dostęp do [wydziałowego serwisu GitLab](https://gitlab-stud.elka.pw.edu.pl/) możliwy jest po zalogowaniu się za pomocą danych wydziałowych \(LDAP\).
-* Rozwiązanie należy sporządzać w prywatnym repozytorium zawierającym w nazwie dane członków zespołu \(`nazwisko1-nazwisko2`, małymi literami\).
-* Repozytorium powinno zawierać co najmniej dwie gałęzie - roboczą i pustą \(np. `master` i `grade`\).
-* Po zakończeniu prac nad zadaniem należy:
-  * udostępnić repozytorium prowadzącemu \([@karolpiczak](https://gitlab-stud.elka.pw.edu.pl/karolpiczak) lub [@wgrabski](https://gitlab-stud.elka.pw.edu.pl/wgrabski)\) z [uprawnieniami](https://docs.gitlab.com/ee/user/permissions.html) na poziomie `Developer`,
-  * [utworzyć nowy _merge request_](https://docs.gitlab.com/ee/gitlab-basics/add-merge-request.html) z gałęzi roboczej do gałęzi pustej \(np. `master -> grade`\),
-  * zatytułować _merge request_ jako `Lab X: Nazwisko1-Nazwisko2`, gdzie `X` jest numerem zajęć,
-  * przydzielić tak utworzony _merge request_ prowadzącemu \(jako `Assignee`\).
 
