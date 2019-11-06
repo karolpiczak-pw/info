@@ -25,7 +25,7 @@ Punkty za aktywność przyznawane są za rozwiązywanie zadań w trakcie zajęć
 | 2 | algorytmy sortowania |
 | 3 | drzewa AVL, drzewa Splay |
 | 4 | kopce |
-| 5 | **kolokwium** |
+| 5 | **kolokwium \(planowe terminy: gr. 102 - 10 grudnia, gr. 103 i 105 - 17 grudnia\)** |
 | 6 | wyszukiwanie wzorca w tekście - prezentacje |
 | 7 | algorytmy grafowe - prezentacje |
 
