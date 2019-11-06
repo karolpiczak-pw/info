@@ -52,10 +52,10 @@ Błędy dostępu do pamięci \(odwoływanie się do nieważnego wskaźnika\) tra
 * Rozwiązania zadań laboratoryjnych muszą zostać zaprezentowane na konsultacjach prowadzącemu, do którego są Państwo przypisani w systemie USOS. Grupy mieszane mogą wybrać prowadzącego. Drugim prowadzącym laboratoria jest Waldemar Grabski.
 * Przy prezentacji zadania powinien być obecny cały zespół.
 * Na konsultacje należy zapisać się w [kalendarzu](https://calendly.com/karolpiczak/) \(terminy udostępniane są na najbliższe dwa tygodnie\).
-* Przy zapisywaniu się **należy podać link do repozytorium na** [**wydziałowym GitLabie**](https://gitlab-stud.elka.pw.edu.pl/) **ze zgłoszonym** _**merge request**_ **sporządzonym** [**według instrukcji**](https://files.pw.karolpiczak.com/Instrukcja-GitLab.pdf) ****o tytule _`AISDI-LAB X: Nazwisko1-Nazwisko2`._
+* Przy zapisywaniu się **należy podać link do repozytorium na** [**wydziałowym** _**GitLabie**_](https://gitlab-stud.elka.pw.edu.pl/) _****_**ze zgłoszonym** _**merge request**_ **sporządzonym** [**według instrukcji**](https://files.pw.karolpiczak.com/Instrukcja-GitLab.pdf) ****o tytule _`AISDI-LAB X: Nazwisko1-Nazwisko2`._
 * Zadania można zdawać do ostatnich zajęć laboratoryjnych. Proszę jednak uwzględnić mniejszą dostępność terminów pod koniec semestru.
 
 {% hint style="info" %}
-Na pojedynczych konsultacjach możliwe jest ocenienie więcej niż jednego zadania, z tym że będzie to zależało od ilości uwag i dostępnego czasu. Zwłaszcza w takim przypadku proszę o wcześniejszy kontakt - część uwag postaram się przekazać na zasadzie code review przez GitLab.
+Na pojedynczych konsultacjach możliwe jest ocenienie więcej niż jednego zadania, z tym że będzie to zależało od ilości uwag i dostępnego czasu. Zwłaszcza w takim przypadku proszę o wcześniejszy kontakt - część uwag postaram się przekazać na zasadzie _code review_ przez _GitLab_.
 {% endhint %}
 
