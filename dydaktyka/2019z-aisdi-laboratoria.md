@@ -52,7 +52,7 @@ Błędy dostępu do pamięci \(odwoływanie się do nieważnego wskaźnika\) tra
 * Rozwiązania zadań laboratoryjnych muszą zostać zaprezentowane na konsultacjach prowadzącemu, do którego są Państwo przypisani w systemie USOS. Grupy mieszane mogą wybrać prowadzącego. Drugim prowadzącym laboratoria jest Waldemar Grabski.
 * Przy prezentacji zadania powinien być obecny cały zespół.
 * Na konsultacje należy zapisać się w [kalendarzu](https://calendly.com/karolpiczak/) \(terminy udostępniane są na najbliższe dwa tygodnie\).
-* Przy zapisywaniu się **należy podać link do repozytorium na** [**wydziałowym GitLabie**](https://gitlab-stud.elka.pw.edu.pl/) **ze zgłoszonym** _**merge request**_ **sporządzonym** [**według instrukcji**](https://files.pw.karolpiczak.com/Instrukcja-GitLab.pdf)**.** Tytuł _merge requesta `AISDI-LAB X: Nazwisko1-Nazwisko2`._
+* Przy zapisywaniu się **należy podać link do repozytorium na** [**wydziałowym GitLabie**](https://gitlab-stud.elka.pw.edu.pl/) **ze zgłoszonym** _**merge request**_ **sporządzonym** [**według instrukcji**](https://files.pw.karolpiczak.com/Instrukcja-GitLab.pdf) ****o tytule _`AISDI-LAB X: Nazwisko1-Nazwisko2`._
 * Zadania można zdawać do ostatnich zajęć laboratoryjnych. Proszę jednak uwzględnić mniejszą dostępność terminów pod koniec semestru.
 
 {% hint style="info" %}
