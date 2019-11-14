@@ -39,3 +39,7 @@ Rozwiązania zadań należy zgłaszać przez udostępnienie repozytorium na wydz
 * \*\*\*\*[**Zadanie \#2**](zadanie-domowe-2.md)\*\*\*\*
 * \*\*\*\*[**Zadanie \#3**](zadanie-domowe-3.md)\*\*\*\*
 
+{% hint style="danger" %}
+Do oceny można zgłosić maksymalnie trzy wybrane zadania domowe.
+{% endhint %}
+
