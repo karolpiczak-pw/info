@@ -35,7 +35,7 @@ Rozwiązania zadań należy zgłaszać przez udostępnienie repozytorium na wydz
 
 **Termin na zgłaszanie zadań:** do kolokwium
 
-* **Zadanie \#1**
-* **Zadanie \#2**
-* **Zadanie \#3**
+* \*\*\*\*[**Zadanie \#1**](zadanie-domowe-1.md)
+* \*\*\*\*[**Zadanie \#2**](zadanie-domowe-2.md)\*\*\*\*
+* \*\*\*\*[**Zadanie \#3**](zadanie-domowe-3.md)\*\*\*\*
 
