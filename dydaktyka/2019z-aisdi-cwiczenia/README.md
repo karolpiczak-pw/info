@@ -23,7 +23,7 @@ Punkty za aktywność przyznawane są za rozwiązywanie zadań w trakcie zajęć
 | :--- | :--- |
 | 1 | lista, drzewo wyszukiwania binarnego \(_BST_\) |
 | 2 | algorytmy sortowania |
-| 3 | drzewa AVL, drzewa Splay |
+| 3 | drzewa AVL, drzewa splay |
 | 4 | kopce |
 | 5 | **kolokwium \(planowe terminy: gr. 102 - 10 grudnia, gr. 103 i 105 - 17 grudnia\)** |
 | 6 | wyszukiwanie wzorca w tekście - prezentacje |
@@ -35,30 +35,7 @@ Rozwiązania zadań należy zgłaszać przez udostępnienie repozytorium na wydz
 
 **Termin na zgłaszanie zadań:** do kolokwium
 
-{% hint style="info" %}
-Dopuszczalne są implementacje w językach C++, Python, Java.
-{% endhint %}
-
-{% hint style="warning" %}
-Rozwiązanie powinno również zawierać przynajmniej podstawowy zakres testów weryfikujących poprawność implementacji.
-{% endhint %}
-
-### Zadanie \#1
-
-Zaimplementuj operację usuwania węzła z drzewa wyszukiwania binarnego.
-
-### Zadanie \#2
-
-Zaimplementuj program, który:
-
-* wygeneruje losową permutację standardowej talii kart \(52 karty\),
-* posortuje uzyskany ciąg kart w porządku rosnącym \(od dwójki do asa\) w sposób
-
-  stabilny \(wejściowa kolejność kolorów zachowana\) wykorzystując algorytm
-
-  _selection sort_ i strukturę listy.
-
-{% hint style="info" %}
-Sugerowane oznaczenia kolorów: **S**♠ **H**♥ **D**♦ **C**♣ 
-{% endhint %}
+* **Zadanie \#1**
+* **Zadanie \#2**
+* **Zadanie \#3**
 
