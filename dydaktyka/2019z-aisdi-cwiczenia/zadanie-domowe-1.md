@@ -1,5 +1,9 @@
 # Zadanie domowe \#1
 
+{% hint style="danger" %}
+Do oceny można zgłosić maksymalnie trzy wybrane zadania domowe.
+{% endhint %}
+
 **Nazwa repozytorium:** `AISDI-HW 1: Nazwisko`
 
 ### Treść zadania
@@ -13,4 +17,6 @@ Dopuszczalne są implementacje w językach C++, Python, Java.
 {% hint style="warning" %}
 Rozwiązanie powinno również zawierać przynajmniej podstawowy zakres testów weryfikujących poprawność implementacji.
 {% endhint %}
+
+
 

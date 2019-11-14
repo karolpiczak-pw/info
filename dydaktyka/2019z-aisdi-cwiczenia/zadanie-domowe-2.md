@@ -1,5 +1,9 @@
 # Zadanie domowe \#2
 
+{% hint style="danger" %}
+Do oceny można zgłosić maksymalnie trzy wybrane zadania domowe.
+{% endhint %}
+
 **Nazwa repozytorium:** `AISDI-HW 2: Nazwisko`
 
 ### Treść zadania
