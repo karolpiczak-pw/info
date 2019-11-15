@@ -4,7 +4,11 @@
 Do oceny można zgłosić maksymalnie trzy wybrane zadania domowe.
 {% endhint %}
 
-**Nazwa repozytorium:** `AISDI-HW 3: Nazwisko`
+{% hint style="info" %}
+Materiały pomocnicze do zadania znajdują się w [repozytorium na GitHub](https://github.com/karolpiczak-pw/2019Z-AISDI/tree/master/tutorials/homework-3-trees).
+{% endhint %}
+
+**Nazwa repozytorium z rozwiązaniem:** `AISDI-HW 3: Nazwisko`
 
 ### Treść zadania
 

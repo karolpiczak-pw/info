@@ -4,7 +4,7 @@
 Do oceny można zgłosić maksymalnie trzy wybrane zadania domowe.
 {% endhint %}
 
-**Nazwa repozytorium:** `AISDI-HW 2: Nazwisko`
+**Nazwa repozytorium z rozwiązaniem:** `AISDI-HW 2: Nazwisko`
 
 ### Treść zadania
 
