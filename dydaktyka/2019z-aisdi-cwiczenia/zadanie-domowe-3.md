@@ -353,7 +353,7 @@ strict digraph dot {
 
 ### Pomocne narzędzia
 
-* Na stronie [v**iz-js.com**](http://viz-js.com) można poeksperymentować z zapisem w języku _DOT_ bezpośrednio w przeglądarce, bez konieczności instalacji pakietu _Graphviz_.
+* Na stronie [**viz-js.com**](http://viz-js.com) można poeksperymentować z zapisem w języku _DOT_ bezpośrednio w przeglądarce, bez konieczności instalacji pakietu _Graphviz_.
 * [**VisuAlgo**](https://visualgo.net/en/bst) zawiera interaktywne wizualizacje drzewa BST, AVL i wielu innych struktur danych i algorytmów.
 * W [**repozytorium**](https://github.com/karolpiczak-pw/2019Z-AISDI/tree/master/tutorials/homework-3-trees) przygotowałem skrypt w _Pythonie,_ który pozwala przyspieszyć generowanie wykresów za pomocą _XeLaTeX-u._
 
