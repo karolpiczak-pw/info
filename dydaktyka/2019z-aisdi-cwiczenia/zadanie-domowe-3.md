@@ -12,7 +12,7 @@ Materiały pomocnicze do zadania znajdują się w [repozytorium na GitHub](https
 
 ### Treść zadania
 
-Rozpatrujemy standardowe [drzewo wyszukiwania binarnego](https://en.wikipedia.org/wiki/Binary_search_tree), [drzewo typu splay](https://en.wikipedia.org/wiki/Splay_tree) i [drzewo AVL](https://en.wikipedia.org/wiki/AVL_tree). Proszę naszkicować kolejne stany poszczególnych drzew po każdej z wykonywanych operacji:
+Rozpatrujemy standardowe [binarne drzewo poszukiwań](https://en.wikipedia.org/wiki/Binary_search_tree), [drzewo typu splay](https://en.wikipedia.org/wiki/Splay_tree) i [drzewo AVL](https://en.wikipedia.org/wiki/AVL_tree). Proszę naszkicować kolejne stany poszczególnych drzew po każdej z wykonywanych operacji:
 
 * wstaw kolejno wartości `51, 22, 43, 84, 35, 86, 57, 98`,
 * następnie znajdź wartość `57`,

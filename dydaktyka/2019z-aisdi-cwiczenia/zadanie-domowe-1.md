@@ -8,7 +8,7 @@ Do oceny można zgłosić maksymalnie trzy wybrane zadania domowe.
 
 ### Treść zadania
 
-Zaimplementuj operację usuwania węzła z drzewa wyszukiwania binarnego.
+Zaimplementuj operację usuwania węzła z binarnego drzewa poszukiwań.
 
 {% hint style="info" %}
 Dopuszczalne są implementacje w językach C++, Python, Java.

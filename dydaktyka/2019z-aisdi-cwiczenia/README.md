@@ -21,7 +21,7 @@ Punkty za aktywność przyznawane są za rozwiązywanie zadań w trakcie zajęć
 
 | Lp. | Tematyka zajęć |
 | :--- | :--- |
-| 1 | lista, drzewo wyszukiwania binarnego \(_BST_\) |
+| 1 | lista, binarne drzewo poszukiwań \(_BST_\) |
 | 2 | algorytmy sortowania |
 | 3 | drzewa AVL, drzewa splay |
 | 4 | kopce |

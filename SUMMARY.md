@@ -5,6 +5,7 @@
 ## Dydaktyka
 
 * [2019Z-AISDI - ćwiczenia](dydaktyka/2019z-aisdi-cwiczenia/README.md)
+  * [Kolokwium](dydaktyka/2019z-aisdi-cwiczenia/kolokwium.md)
   * [Zadanie domowe \#1](dydaktyka/2019z-aisdi-cwiczenia/zadanie-domowe-1.md)
   * [Zadanie domowe \#2](dydaktyka/2019z-aisdi-cwiczenia/zadanie-domowe-2.md)
   * [Zadanie domowe \#3](dydaktyka/2019z-aisdi-cwiczenia/zadanie-domowe-3.md)
