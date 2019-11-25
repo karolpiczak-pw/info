@@ -5,7 +5,7 @@ Do oceny można zgłosić maksymalnie trzy wybrane zadania domowe.
 {% endhint %}
 
 {% hint style="info" %}
-Materiały pomocnicze do zadania znajdują się w [repozytorium na GitHub](https://github.com/karolpiczak-pw/2019Z-AISDI/tree/master/tutorials/homework-3-trees).
+Materiały pomocnicze do zadania znajdują się w [repozytorium na GitHub](https://github.com/karolpiczak-pw/2019Z-AISDI/tree/master/homework/03-trees).
 {% endhint %}
 
 **Nazwa repozytorium z rozwiązaniem:** `AISDI-HW 3: Nazwisko`
@@ -355,7 +355,7 @@ strict digraph dot {
 
 * Na stronie [**viz-js.com**](http://viz-js.com) można poeksperymentować z zapisem w języku _DOT_ bezpośrednio w przeglądarce, bez konieczności instalacji pakietu _Graphviz_.
 * [**VisuAlgo**](https://visualgo.net/en/bst) zawiera interaktywne wizualizacje drzewa BST, AVL i wielu innych struktur danych i algorytmów.
-* W [**repozytorium**](https://github.com/karolpiczak-pw/2019Z-AISDI/tree/master/tutorials/homework-3-trees) przygotowałem skrypt w _Pythonie,_ który pozwala przyspieszyć generowanie wykresów za pomocą _XeLaTeX-u._
+* W [**repozytorium**](https://github.com/karolpiczak-pw/2019Z-AISDI/tree/master/homework/03-trees) przygotowałem skrypt w _Pythonie,_ który pozwala przyspieszyć generowanie wykresów za pomocą _XeLaTeX-u._
 
 ### Forma dostarczenia wyników
 
