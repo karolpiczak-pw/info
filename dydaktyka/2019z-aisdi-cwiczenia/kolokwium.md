@@ -14,7 +14,7 @@ description: Zakres materiału obowiązującego na kolokwium
   * dostęp,
   * wstawianie elementu \(na końcu/w środku\),
   * usuwanie elementu \(z końca/ze środka\),
-  * wyszukiwanie elementu o określonej wartości,
+  * wyszukiwanie elementu o określonej wartości
 * różnica między `std::vector::size()` a `std::vector::capacity()`,
 * wykorzystanie iteratorów
 {% endtab %}
@@ -28,7 +28,7 @@ description: Zakres materiału obowiązującego na kolokwium
   * dostęp,
   * wstawianie elementu,
   * usuwanie elementu,
-  * wyszukiwanie elementu o określonej wartości**,**
+  * wyszukiwanie elementu o określonej wartości
 * wyszukiwanie ze strażnikiem
 {% endtab %}
 
@@ -136,11 +136,11 @@ Zaimplementuj uproszczony iterator \(tylko operacje `->` i `++` \) po elementach
     * dostęp,
     * wyszukiwanie elementu,
     * wstawianie elementu,
-    * usuwanie elementu**,**
+    * usuwanie elementu
   * przechodzenie po węzłach drzewa:
     * in-order,
     * pre-order,
-    * post-order,
+    * post-order
   * implementacja iteratora dla drzewa
 {% endtab %}
 
@@ -247,7 +247,111 @@ Zaimplementuj w klasie drzewa BST funkcjonalność usuwania węzła o zadanej wa
 
 ## Ćwiczenia \#3
 
-### 
+### Drzewa
+
+{% tabs %}
+{% tab title="Zakres materiału" %}
+* drzewa BST zrównoważone i niezrównoważone,
+* rotacje drzew,
+* drzewa splay:
+  * implementacja i złożoność obliczeniowa:
+    * operacja _splay_,
+    * wyszukiwanie elementu,
+    * wstawianie elementu,
+    * usuwanie elementu,
+  * zastosowania drzewa splay, zalety i wady
+* drzewa AVL:
+  * wysokość, współczynnik wyważenia,
+  * operacje równoważenia drzewa AVL,
+  * implementacja i złożoność obliczeniowa:
+    * wyszukiwanie elementu,
+    * wstawianie elementu,
+    * usuwanie elementu
+{% endtab %}
+
+{% tab title="Materiały pomocnicze" %}
+{% hint style="info" %}
+**Zrównoważenie drzewa BST:**
+
+* [wyważanie drzewa](https://pl.wikipedia.org/wiki/Binarne_drzewo_poszukiwa%C5%84#Wywa%C5%BCanie_drzewa)
+
+**Rotacje:**
+
+* \*\*\*\*[https://en.wikipedia.org/wiki/Tree\_rotation](https://en.wikipedia.org/wiki/Tree_rotation)
+
+**Drzewa splay:**
+
+* [https://pl.wikipedia.org/wiki/Drzewo\_splay](https://pl.wikipedia.org/wiki/Drzewo_splay)
+* [https://cs.stackexchange.com/q/1229/8837](https://cs.stackexchange.com/q/1229/8837)
+* [https://www.cs.cmu.edu/~sleator/papers/self-adjusting.pdf](https://www.cs.cmu.edu/~sleator/papers/self-adjusting.pdf)
+* [https://people.eecs.berkeley.edu/~jrs/61b/lec/36](https://people.eecs.berkeley.edu/~jrs/61b/lec/36)
+
+**Drzewa AVL:**
+
+* [https://en.wikipedia.org/wiki/AVL\_tree](https://en.wikipedia.org/wiki/AVL_tree)
+* [https://www.codesdope.com/course/data-structures-avl-trees/](https://www.codesdope.com/course/data-structures-avl-trees/)
+
+**Wizualizacje:**
+
+* [https://www.cs.usfca.edu/~galles/visualization/SplayTree.html](https://www.cs.usfca.edu/~galles/visualization/SplayTree.html)
+* [https://visualgo.net/en/bst?slide=14](https://visualgo.net/en/bst?slide=14)
+{% endhint %}
+{% endtab %}
+{% endtabs %}
+
+{% tabs %}
+{% tab title="Przykładowe zadania:" %}
+
+{% endtab %}
+
+{% tab title="\#1" %}
+Stwórz dwa drzewa BST przez wstawianie w kolejności następujących wartości:
+
+`A: 40, 20, 60, 10, 30, 50, 70`
+
+`B: 10, 20, 30, 40, 50, 60, 70`
+
+Porównaj złożoność podstawowych operacji dla obydwu drzew.
+
+Następnie dla drzewa niezrównoważonego **B** wykonaj kolejno operacje rotacji:
+
+* `L(40)`
+* `L(30)`
+* `L(20)`
+* `L(10)`
+* `L(20)`
+
+{% hint style="info" %}
+Zapis `L(R)` oznacza rotację lewą, dla której korzeniem jest węzeł o wartości `R`.
+{% endhint %}
+{% endtab %}
+
+{% tab title="\#2" %}
+Dane jest drzewo splay o takiej samej strukturze jak drzewo A z zadania \#1.
+
+Wykonaj w kolejności następujące operacje:
+
+* znajdź element o wartości `30`,
+* znajdź element o wartości `50`,
+* wstaw element o wartości `25`,
+* wstaw element o wartości `22`,
+* usuń element o wartości `50`,
+* usuń element o wartości `25`.
+{% endtab %}
+
+{% tab title="\#3" %}
+Stwórz drzewo AVL przez wstawianie kolejno wartości:
+
+`10, 20, 30, 40, 50, 60, 70`
+
+Na stworzonym drzewie przeprowadź operacje:
+
+* wstaw element o wartości `55`,
+* wstaw element o wartości `52`,
+* usuń element o wartości `52`,
+* usuń element o wartości `70`.
+{% endtab %}
+{% endtabs %}
 
 ## Ćwiczenia \#4
 
