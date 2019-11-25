@@ -29,6 +29,8 @@ Punkty za aktywność przyznawane są za rozwiązywanie zadań w trakcie zajęć
 | 6 | wyszukiwanie wzorca w tekście - prezentacje |
 | 7 | algorytmy grafowe - prezentacje |
 
+Dokładny zakres materiału obowiązującego na kolokwium zamieszczony jest na [osobnej podstronie](kolokwium.md). 
+
 ## Zasady zgłaszania zadań domowych
 
 Rozwiązania zadań należy zgłaszać przez udostępnienie repozytorium na wydziałowym serwerze _GitLab_ i przydzielenie _merge request_ [prowadzącemu](https://gitlab-stud.elka.pw.edu.pl/karolpiczak), analogicznie do [zasad na laboratoriach](https://files.pw.karolpiczak.com/Instrukcja-GitLab.pdf). _Merge request_ proszę zatytułować `AISDI-HW X: Nazwisko`, gdzie `X` jest kolejnym numerem zadania.
