@@ -38,6 +38,7 @@ Rozwiązania zadań należy zgłaszać przez udostępnienie repozytorium na wydz
 * \*\*\*\*[**Zadanie \#1**](zadanie-domowe-1.md)
 * \*\*\*\*[**Zadanie \#2**](zadanie-domowe-2.md)\*\*\*\*
 * \*\*\*\*[**Zadanie \#3**](zadanie-domowe-3.md)\*\*\*\*
+* \*\*\*\*[**Zadanie \#4**](https://pw.karolpiczak.com/dydaktyka/2019z-aisdi-cwiczenia/zadanie-domowe-4)\*\*\*\*
 
 {% hint style="danger" %}
 Do oceny można zgłosić maksymalnie trzy wybrane zadania domowe.
