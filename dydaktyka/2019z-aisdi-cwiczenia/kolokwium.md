@@ -517,10 +517,3 @@ Porównaj stany przejściowe kopca stworzonego na bazie poniższego ciągu opera
 * `push(40)`.
 {% endtab %}
 {% endtabs %}
-
-
-
-
-
-
-
