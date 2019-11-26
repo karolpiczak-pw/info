@@ -51,7 +51,7 @@ description: Zakres materiału obowiązującego na kolokwium
 {% endtabs %}
 
 {% tabs %}
-{% tab title="Przykładowe zadania (lista):" %}
+{% tab title="Przykładowe zadania (1.2):" %}
 {% endtab %}
 
 {% tab title="1.2.1" %}
@@ -276,7 +276,7 @@ Zaimplementuj w klasie drzewa BST funkcjonalność usuwania węzła o zadanej wa
 
 **Rotacje:**
 
-* \*\*\*\*[https://en.wikipedia.org/wiki/Tree\_rotation](https://en.wikipedia.org/wiki/Tree_rotation)
+* [https://en.wikipedia.org/wiki/Tree\_rotation](https://en.wikipedia.org/wiki/Tree_rotation)
 
 **Drzewa splay:**
 
