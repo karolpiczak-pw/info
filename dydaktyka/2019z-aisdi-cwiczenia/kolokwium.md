@@ -10,13 +10,13 @@ description: Zakres materiału obowiązującego na kolokwium
 
 {% tabs %}
 {% tab title="Zakres materiału" %}
-* podstawowe operacje i ich złożoność:
+* podstawowe **operacje na tablicy/wektorze** i ich złożoność:
   * dostęp,
   * wstawianie elementu \(na końcu/w środku\),
   * usuwanie elementu \(z końca/ze środka\),
   * wyszukiwanie elementu o określonej wartości
 * różnica między `std::vector::size()` a `std::vector::capacity()`,
-* wykorzystanie iteratorów
+* wykorzystanie **iteratorów**
 {% endtab %}
 {% endtabs %}
 
@@ -24,12 +24,12 @@ description: Zakres materiału obowiązującego na kolokwium
 
 {% tabs %}
 {% tab title="Zakres materiału" %}
-* podstawowe operacje i ich złożoność:
+* podstawowe **operacje na liście** i ich złożoność:
   * dostęp,
   * wstawianie elementu,
   * usuwanie elementu,
   * wyszukiwanie elementu o określonej wartości
-* wyszukiwanie ze strażnikiem
+* **wyszukiwanie ze strażnikiem**
 {% endtab %}
 
 {% tab title="Materiały pomocnicze" %}
@@ -106,8 +106,8 @@ Zaimplementuj uproszczony iterator \(tylko operacje `->` i `++` \) po elementach
 
 {% tabs %}
 {% tab title="Zakres materiału" %}
-* pojęcie abstrakcyjnego typu danych \(_abstract data type, ADT_\),
-* kolejka i stos jako przykłady ADT,
+* pojęcie **abstrakcyjnego typu danych** \(_abstract data type, ADT_\),
+* **kolejka** i **stos** jako przykłady ADT,
 * implementacja funkcjonalności kolejki i stosu na bazie listy dwukierunkowej
 {% endtab %}
 
@@ -130,8 +130,8 @@ Zaimplementuj uproszczony iterator \(tylko operacje `->` i `++` \) po elementach
 
 {% tabs %}
 {% tab title="Zakres materiału" %}
-* drzewo binarne, definicja, podstawowe własności,
-* binarne drzewo poszukiwań \(_binary search tree_, _BST_\):
+* **drzewo binarne**, definicja, podstawowe własności,
+* **binarne drzewo poszukiwań** \(_binary search tree_, _BST_\):
   * podstawowe operacje i ich złożoność:
     * dostęp,
     * wyszukiwanie elementu,
@@ -200,13 +200,13 @@ Zaimplementuj w klasie drzewa BST funkcjonalność usuwania węzła o zadanej wa
 {% tab title="Zakres materiału" %}
 **Algorytmy:**
 
-* sortowanie przez wybieranie \(_selection sort_\),
-* sortowanie przez wstawianie \(_insertion sort_\),
-* sortowanie bąbelkowe \(_bubble sort_\),
-* sortowanie szybkie \(_quicksort_\),
-* sortowanie przez scalanie \(_merge sort_\),
-* sortowanie przez kopcowanie \(_heapsort_\),
-* sortowanie kubełkowe \(_bucket sort_\)
+* sortowanie przez wybieranie \(_**selection sort**_\),
+* sortowanie przez wstawianie \(_**insertion sort**_\),
+* sortowanie bąbelkowe \(_**bubble sort**_\),
+* sortowanie szybkie \(_**quicksort**_\),
+* sortowanie przez scalanie \(_**merge** **sort**_\),
+* sortowanie przez kopcowanie \(_**heapsort**_\),
+* sortowanie kubełkowe \(_**bucket sort**_\)
 
 **Dla przedstawionych algorytmów:**
 
@@ -252,15 +252,15 @@ Zaimplementuj w klasie drzewa BST funkcjonalność usuwania węzła o zadanej wa
 {% tabs %}
 {% tab title="Zakres materiału" %}
 * drzewa BST zrównoważone i niezrównoważone,
-* rotacje drzew,
-* drzewa splay:
+* **rotacje drzew,**
+* **drzewa splay**:
   * implementacja i złożoność obliczeniowa:
     * operacja _splay_,
     * wyszukiwanie elementu,
     * wstawianie elementu,
     * usuwanie elementu,
   * zastosowania drzewa splay, zalety i wady
-* drzewa AVL:
+* **drzewa AVL**:
   * wysokość, współczynnik wyważenia,
   * operacje równoważenia drzewa AVL,
   * implementacja i złożoność obliczeniowa:
@@ -354,4 +354,173 @@ Na stworzonym drzewie przeprowadź operacje:
 {% endtabs %}
 
 ## Ćwiczenia \#4
+
+### Kopce
+
+{% tabs %}
+{% tab title="Zakres materiału" %}
+* kolejka priorytetowa \(_**priority queue**_, _ADT_\),
+* **kopiec binarny**:
+  * własność kopca _**min-heap**_, _**max-heap**_,
+  * reprezentacja tablicowa kopca \(_implicit data structure_\),
+  * implementacja i złożoność obliczeniowa operacji:
+    * dostęp do najmniejszego elementu,
+    * wstawianie nowego elementu,
+    * usuwanie najmniejszego elementu,
+    * budowa kopca:
+      * metoda Williamsa \(sukcesywne wstawianie elementów\),
+      * metoda Floyda \(przywracanie własności kopca dla tablicy\)
+* **kopce** _**d**_**-arne**:
+  * _3_-heap \(_ternary heap_\) i _4_-heap \(_quaternary heap_\),
+  * zalety i wady zastosowania arności wyższego rzędu,
+* **kopiec dwumianowy**:
+  * kopiec dwumianowy jako przykład kopca złączalnego \(_**mergeable heap**_\),
+  * własności kopca dwumianowego,
+  * implementacja i złożoność obliczeniowa operacji:
+    * dostęp do najmniejszego elementu,
+    * wstawianie nowego elementu,
+    * usuwanie najmniejszego elementu,
+    * scalanie kopców
+* **kopiec Fibonacciego**:
+  * implementacja i złożoność obliczeniowa operacji:
+    * dostęp do najmniejszego elementu,
+    * wstawianie nowego elementu,
+    * usuwanie najmniejszego elementu,
+    * scalanie kopców
+{% endtab %}
+
+{% tab title="Materiały pomocnicze" %}
+{% hint style="info" %}
+**Ogólne:**
+
+* [https://en.wikipedia.org/wiki/Priority\_queue](https://en.wikipedia.org/wiki/Priority_queue)
+* [https://en.wikipedia.org/wiki/Heap\_\(data\_structure\)](https://en.wikipedia.org/wiki/Heap_%28data_structure%29)
+* [https://en.wikipedia.org/wiki/Implicit\_data\_structure](https://en.wikipedia.org/wiki/Implicit_data_structure)
+
+**Kopiec binarny:**
+
+* [https://en.wikipedia.org/wiki/Binary\_heap](https://en.wikipedia.org/wiki/Binary_heap)
+* [https://stackoverflow.com/questions/9755721/how-can-building-a-heap-be-on-time-complexity](https://stackoverflow.com/questions/9755721/how-can-building-a-heap-be-on-time-complexity)
+* [https://brilliant.org/wiki/binary-heap/](https://brilliant.org/wiki/binary-heap/)
+
+**Kopce** _**d**_**-arne:**
+
+* [https://en.wikipedia.org/wiki/D-ary\_heap](https://en.wikipedia.org/wiki/D-ary_heap)
+* [https://stackoverflow.com/questions/29126428/binary-heaps-vs-d-ary-heaps](https://stackoverflow.com/questions/29126428/binary-heaps-vs-d-ary-heaps)
+* [https://stackoverflow.com/questions/48843677/why-dont-we-use-ternary-or-quaternary-heaps](https://stackoverflow.com/questions/48843677/why-dont-we-use-ternary-or-quaternary-heaps)
+
+**Kopiec dwumianowy:**
+
+* [https://en.wikipedia.org/wiki/Binomial\_heap](https://en.wikipedia.org/wiki/Binomial_heap)
+* [https://brilliant.org/wiki/binomial-heap/](https://brilliant.org/wiki/binomial-heap/)
+* [https://www.growingwiththeweb.com/data-structures/binomial-heap/overview/](https://www.growingwiththeweb.com/data-structures/binomial-heap/overview/)
+
+**Kopiec Fibonacciego:**
+
+* [https://en.wikipedia.org/wiki/Fibonacci\_heap](https://en.wikipedia.org/wiki/Fibonacci_heap)
+* [https://brilliant.org/wiki/fibonacci-heap/](https://brilliant.org/wiki/fibonacci-heap/)
+
+**Wizualizacje:**
+
+* [https://visualgo.net/en/heap](https://visualgo.net/en/heap)
+* [https://www.cs.usfca.edu/~galles/visualization/Heap.html](https://www.cs.usfca.edu/~galles/visualization/Heap.html)
+* [https://www.cs.usfca.edu/~galles/visualization/BinomialQueue.html](https://www.cs.usfca.edu/~galles/visualization/BinomialQueue.html)
+* [https://www.cs.usfca.edu/~galles/visualization/FibonacciHeap.html](https://www.cs.usfca.edu/~galles/visualization/FibonacciHeap.html)
+{% endhint %}
+{% endtab %}
+{% endtabs %}
+
+{% tabs %}
+{% tab title="Przykładowe zadania:" %}
+
+{% endtab %}
+
+{% tab title="\#1" %}
+Zapisz w reprezentacji tablicowej drzewo binarne następującej postaci:
+
+![](../../.gitbook/assets/tree%20%283%29.png)
+{% endtab %}
+
+{% tab title="\#2" %}
+Dla zapisu tablicowego:
+
+`[95, 80, 85, 40, 70, 90, 50, 30, 10, 20]`
+
+narysuj zupełne drzewo binarne. Czy drzewo to przedstawia kopiec typu _max-heap_?
+{% endtab %}
+
+{% tab title="\#3" %}
+Do pustego **kopca binarnego** _**max-heap**_ wstaw w kolejności elementy o wartościach klucza:
+
+`43, 24, 11, 47, 13, 67, 59, 95, 29, 17, 54, 40`
+
+Następnie trzykrotnie wykonaj operację usunięcia największego elementu z kopca.
+
+Zilustruj stan kopca po każdym kroku.
+{% endtab %}
+
+{% tab title="\#4" %}
+Z podanej tablicy stwórz **kopiec binarny typu** _**max-heap**_ metodą Floyda \(przywracanie własności kopca kolejnym poddrzewom\):
+
+`[2, 7, 26, 25, 19, 17, 1, 90, 3, 36]`
+
+Zlicz ilość wykonanych operacji, porównaj z metodą tworzenia kopca przez wstawianie.
+{% endtab %}
+
+{% tab title="\#5" %}
+Do pustego **kopca 3-arnego \(**_**ternary heap**_**\) typu** _**max-heap**_ ****wstaw w kolejności elementy o wartościach klucza:
+
+`43, 24, 11, 47, 13, 67, 59, 95, 29, 17, 54, 40`
+
+Następnie trzykrotnie wykonaj operację usunięcia największego elementu z kopca.
+
+Zilustruj stan kopca po każdym kroku.
+{% endtab %}
+
+{% tab title="\#6" %}
+Do pustego **kopca dwumianowego typu** _**min-heap**_ wstaw w kolejności elementy o wartościach klucza:
+
+`43, 24, 11, 47, 13, 67, 59, 95, 29, 17, 54, 40`
+
+Następnie trzykrotnie wykonaj operację usunięcia najmniejszego elementu z kopca.
+
+Zilustruj stan kopca po każdym kroku.
+{% endtab %}
+
+{% tab title="\#7" %}
+Do pustego **kopca Fibonacciego typu** _**min-heap**_ wstaw w kolejności elementy o wartościach klucza:
+
+`43, 24, 11, 47, 13, 67, 59, 95, 29, 17, 54, 40`
+
+Następnie trzykrotnie wykonaj operację usunięcia najmniejszego elementu z kopca.
+
+Zilustruj stan kopca po każdym kroku.
+
+Porównaj stany przejściowe kopca stworzonego na bazie poniższego ciągu operacji:
+
+* `push(43)`,
+* `push(24)`,
+* `push(11)`,
+* `push(47)`,
+* `pop()`,
+* `push(13)`,
+* `push(67)`,
+* `pop()`,
+* `push(59)`,
+* `push(95)`,
+* `pop()`,
+* `push(29)`,
+* `push(17)`,
+* `pop()`,
+* `push(54)`,
+* `pop()`,
+* `push(40)`.
+{% endtab %}
+{% endtabs %}
+
+
+
+
+
+
 
