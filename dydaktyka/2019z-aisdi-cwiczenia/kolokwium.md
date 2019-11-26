@@ -51,7 +51,7 @@ description: Zakres materiału obowiązującego na kolokwium
 {% endtabs %}
 
 {% tabs %}
-{% tab title="Przykładowe zadania (**lista**):" %}
+{% tab title="Przykładowe zadania (lista):" %}
 {% endtab %}
 
 {% tab title="1.1" %}
@@ -164,7 +164,7 @@ Zaimplementuj uproszczony iterator \(tylko operacje `->` i `++` \) po elementach
 {% endtabs %}
 
 {% tabs %}
-{% tab title="Przykładowe zadania (**BST**):" %}
+{% tab title="Przykładowe zadania (BST):" %}
 
 {% endtab %}
 
@@ -299,7 +299,7 @@ Zaimplementuj w klasie drzewa BST funkcjonalność usuwania węzła o zadanej wa
 {% endtabs %}
 
 {% tabs %}
-{% tab title="Przykładowe zadania (**drzewa**):" %}
+{% tab title="Przykładowe zadania (drzewa):" %}
 
 {% endtab %}
 
@@ -430,7 +430,7 @@ Na stworzonym drzewie przeprowadź operacje:
 {% endtabs %}
 
 {% tabs %}
-{% tab title="Przykładowe zadania (**kopce**):" %}
+{% tab title="Przykładowe zadania (kopce):" %}
 
 {% endtab %}
 
