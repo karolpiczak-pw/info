@@ -6,10 +6,10 @@ description: Zakres materiału obowiązującego na kolokwium
 
 ## Ćwiczenia 1
 
-### **Tablica, std::array, std::vector**
+### 1.1 **Tablica, std::array, std::vector**
 
 {% tabs %}
-{% tab title="Zakres materiału" %}
+{% tab title="Zakres materiału (1.1)" %}
 * podstawowe **operacje na tablicy/wektorze** i ich złożoność:
   * dostęp,
   * wstawianie elementu \(na końcu/w środku\),
@@ -20,10 +20,10 @@ description: Zakres materiału obowiązującego na kolokwium
 {% endtab %}
 {% endtabs %}
 
-### **Lista jedno- i dwukierunkowa**
+### 1.2 **Lista jedno- i dwukierunkowa**
 
 {% tabs %}
-{% tab title="Zakres materiału" %}
+{% tab title="Zakres materiału (1.2)" %}
 * podstawowe **operacje na liście** i ich złożoność:
   * dostęp,
   * wstawianie elementu,
@@ -32,7 +32,7 @@ description: Zakres materiału obowiązującego na kolokwium
 * **wyszukiwanie ze strażnikiem**
 {% endtab %}
 
-{% tab title="Materiały pomocnicze" %}
+{% tab title="Materiały pomocnicze (1.2)" %}
 {% hint style="info" %}
 **Ogólne:**
 
@@ -54,7 +54,7 @@ description: Zakres materiału obowiązującego na kolokwium
 {% tab title="Przykładowe zadania (lista):" %}
 {% endtab %}
 
-{% tab title="1.1" %}
+{% tab title="1.2.1" %}
 Dany jest następujący szkielet klasy listy jednokierunkowej:
 
 ```cpp
@@ -80,37 +80,37 @@ class LinkedList {
 Zaimplementuj brakujące metody.
 {% endtab %}
 
-{% tab title="1.2" %}
+{% tab title="1.2.2" %}
 Zaimplementuj metodę, która dla listy jednokierunkowej zwróci trzeci element od końca. Załóż, że długość listy nie jest znana.
 {% endtab %}
 
-{% tab title="1.3" %}
+{% tab title="1.2.3" %}
 Zaimplementuj metodę, która zwróci środkowy element listy jednokierunkowej. Załóż, że długość listy nie jest znana.
 {% endtab %}
 
-{% tab title="1.4" %}
+{% tab title="1.2.4" %}
 Zaproponuj sposób odwracania listy jednokierunkowej w jednym przejściu bez tworzenia kopii wszystkich elementów.
 {% endtab %}
 
-{% tab title="1.5" %}
+{% tab title="1.2.5" %}
 Zaproponuj sposób usuwania węzła mając tylko odwołanie do niego. Załóż, że nie jest to ostatni węzeł listy.
 {% endtab %}
 
-{% tab title="1.6" %}
+{% tab title="1.2.6" %}
 Zaimplementuj uproszczony iterator \(tylko operacje `->` i `++` \) po elementach listy. Jak wyglądałby taki iterator, gdyby miał zwracać najpierw elementy na rosnących pozycjach nieparzystych listy, a następnie na parzystych?
 {% endtab %}
 {% endtabs %}
 
-### **Kolejka \(FIFO\), stos \(LIFO\)**
+### 1.3 **Kolejka \(FIFO\), stos \(LIFO\)**
 
 {% tabs %}
-{% tab title="Zakres materiału" %}
+{% tab title="Zakres materiału (1.3)" %}
 * pojęcie **abstrakcyjnego typu danych** \(_abstract data type, ADT_\),
 * **kolejka** i **stos** jako przykłady ADT,
 * implementacja funkcjonalności kolejki i stosu na bazie listy dwukierunkowej
 {% endtab %}
 
-{% tab title="Materiały pomocnicze" %}
+{% tab title="Materiały pomocnicze (1.3)" %}
 {% hint style="info" %}
 **ADT:**
 
@@ -125,10 +125,10 @@ Zaimplementuj uproszczony iterator \(tylko operacje `->` i `++` \) po elementach
 {% endtab %}
 {% endtabs %}
 
-### Binarne drzewo poszukiwań \(BST\)
+### 1.4 Binarne drzewo poszukiwań \(BST\)
 
 {% tabs %}
-{% tab title="Zakres materiału" %}
+{% tab title="Zakres materiału (1.4)" %}
 * **drzewo binarne**, definicja, podstawowe własności,
 * **binarne drzewo poszukiwań** \(_binary search tree_, _BST_\):
   * podstawowe operacje i ich złożoność:
@@ -143,7 +143,7 @@ Zaimplementuj uproszczony iterator \(tylko operacje `->` i `++` \) po elementach
   * implementacja iteratora dla drzewa
 {% endtab %}
 
-{% tab title="Materiały pomocnicze" %}
+{% tab title="Materiały pomocnicze (1.4)" %}
 {% hint style="info" %}
 **Ogólne:**
 
@@ -164,39 +164,39 @@ Zaimplementuj uproszczony iterator \(tylko operacje `->` i `++` \) po elementach
 {% endtabs %}
 
 {% tabs %}
-{% tab title="Przykładowe zadania (BST):" %}
+{% tab title="Przykładowe zadania (1.4):" %}
 
 {% endtab %}
 
-{% tab title="1.7" %}
+{% tab title="1.4.1" %}
 Narysuj binarne drzewo poszukiwań utworzone przez wstawienie w kolejności elementów:
 
 `31, 72, 23, 44, 85, 106, 17, 28, 9, 30, 41`
 {% endtab %}
 
-{% tab title="1.8" %}
+{% tab title="1.4.2" %}
 Zaimplementuj metody wstawiania i wyszukiwania węzła w drzewie BST.
 {% endtab %}
 
-{% tab title="1.9" %}
+{% tab title="1.4.3" %}
 Zaimplementuj rekursywne przechodzenie po węzłach drzewa w kolejności "in-order".
 {% endtab %}
 
-{% tab title="1.10" %}
+{% tab title="1.4.4" %}
 Zaimplementuj uproszczony iterator \(tylko operacje `->` i `++` \), który będzie przechodził węzły drzewa w kolejności "in-order".
 {% endtab %}
 
-{% tab title="1.11" %}
+{% tab title="1.4.5" %}
 Zaimplementuj w klasie drzewa BST funkcjonalność usuwania węzła o zadanej wartości.
 {% endtab %}
 {% endtabs %}
 
 ## Ćwiczenia 2
 
-### Algorytmy sortowania
+### 2.1 Algorytmy sortowania
 
 {% tabs %}
-{% tab title="Zakres materiału" %}
+{% tab title="Zakres materiału (2.1)" %}
 **Algorytmy:**
 
 * sortowanie przez wybieranie \(_**selection sort**_\),
@@ -215,7 +215,7 @@ Zaimplementuj w klasie drzewa BST funkcjonalność usuwania węzła o zadanej wa
 * stabilność
 {% endtab %}
 
-{% tab title="Materiały pomocnicze" %}
+{% tab title="Materiały pomocnicze (2.1)" %}
 {% hint style="info" %}
 **Ogólne:**
 
@@ -246,10 +246,10 @@ Zaimplementuj w klasie drzewa BST funkcjonalność usuwania węzła o zadanej wa
 
 ## Ćwiczenia 3
 
-### Drzewa
+### 3.1 Drzewa
 
 {% tabs %}
-{% tab title="Zakres materiału" %}
+{% tab title="Zakres materiału (3.1)" %}
 * drzewa BST zrównoważone i niezrównoważone,
 * **rotacje drzew,**
 * **drzewa splay**:
@@ -268,7 +268,7 @@ Zaimplementuj w klasie drzewa BST funkcjonalność usuwania węzła o zadanej wa
     * usuwanie elementu
 {% endtab %}
 
-{% tab title="Materiały pomocnicze" %}
+{% tab title="Materiały pomocnicze (3.1)" %}
 {% hint style="info" %}
 **Zrównoważenie drzewa BST:**
 
@@ -299,11 +299,11 @@ Zaimplementuj w klasie drzewa BST funkcjonalność usuwania węzła o zadanej wa
 {% endtabs %}
 
 {% tabs %}
-{% tab title="Przykładowe zadania (drzewa):" %}
+{% tab title="Przykładowe zadania (3.1):" %}
 
 {% endtab %}
 
-{% tab title="3.1" %}
+{% tab title="3.1.1" %}
 Stwórz dwa drzewa BST przez wstawianie w kolejności następujących wartości:
 
 `A: 40, 20, 60, 10, 30, 50, 70`
@@ -325,7 +325,7 @@ Zapis `L(R)` oznacza rotację lewą, dla której korzeniem jest węzeł o warto�
 {% endhint %}
 {% endtab %}
 
-{% tab title="3.2" %}
+{% tab title="3.1.2" %}
 Dane jest drzewo splay o takiej samej strukturze jak drzewo A z zadania 1.
 
 Wykonaj w kolejności następujące operacje:
@@ -338,7 +338,7 @@ Wykonaj w kolejności następujące operacje:
 * usuń element o wartości `25`.
 {% endtab %}
 
-{% tab title="3.3" %}
+{% tab title="3.1.3" %}
 Stwórz drzewo AVL przez wstawianie kolejno wartości:
 
 `10, 20, 30, 40, 50, 60, 70`
@@ -354,10 +354,10 @@ Na stworzonym drzewie przeprowadź operacje:
 
 ## Ćwiczenia 4
 
-### Kopce
+### 4.1 Kopce
 
 {% tabs %}
-{% tab title="Zakres materiału" %}
+{% tab title="Zakres materiału (4.1)" %}
 * kolejka priorytetowa \(_**priority queue**_, _ADT_\),
 * **kopiec binarny**:
   * własność kopca _**min-heap**_, _**max-heap**_,
@@ -388,7 +388,7 @@ Na stworzonym drzewie przeprowadź operacje:
     * scalanie kopców
 {% endtab %}
 
-{% tab title="Materiały pomocnicze" %}
+{% tab title="Materiały pomocnicze (4.1)" %}
 {% hint style="info" %}
 **Ogólne:**
 
@@ -430,17 +430,17 @@ Na stworzonym drzewie przeprowadź operacje:
 {% endtabs %}
 
 {% tabs %}
-{% tab title="Przykładowe zadania (kopce):" %}
+{% tab title="Przykładowe zadania (4.1):" %}
 
 {% endtab %}
 
-{% tab title="4.1" %}
+{% tab title="4.1.1" %}
 Zapisz w reprezentacji tablicowej drzewo binarne następującej postaci:
 
 ![](../../.gitbook/assets/tree%20%283%29.png)
 {% endtab %}
 
-{% tab title="4.2" %}
+{% tab title="4.1.2" %}
 Dla zapisu tablicowego:
 
 `[95, 80, 85, 40, 70, 90, 50, 30, 10, 20]`
@@ -448,7 +448,7 @@ Dla zapisu tablicowego:
 narysuj zupełne drzewo binarne. Czy drzewo to przedstawia kopiec typu _max-heap_?
 {% endtab %}
 
-{% tab title="4.3" %}
+{% tab title="4.1.3" %}
 Do pustego **kopca binarnego** _**max-heap**_ wstaw w kolejności elementy o wartościach klucza:
 
 `43, 24, 11, 47, 13, 67, 59, 95, 29, 17, 54, 40`
@@ -458,7 +458,7 @@ Następnie trzykrotnie wykonaj operację usunięcia największego elementu z kop
 Zilustruj stan kopca po każdym kroku.
 {% endtab %}
 
-{% tab title="4.4" %}
+{% tab title="4.1.4" %}
 Z podanej tablicy stwórz **kopiec binarny typu** _**max-heap**_ metodą Floyda \(przywracanie własności kopca kolejnym poddrzewom\):
 
 `[2, 7, 26, 25, 19, 17, 1, 90, 3, 36]`
@@ -466,7 +466,7 @@ Z podanej tablicy stwórz **kopiec binarny typu** _**max-heap**_ metodą Floyda 
 Zlicz ilość wykonanych operacji, porównaj z metodą tworzenia kopca przez wstawianie.
 {% endtab %}
 
-{% tab title="4.5" %}
+{% tab title="4.1.5" %}
 Do pustego **kopca 3-arnego \(**_**ternary heap**_**\) typu** _**max-heap**_ ****wstaw w kolejności elementy o wartościach klucza:
 
 `43, 24, 11, 47, 13, 67, 59, 95, 29, 17, 54, 40`
@@ -476,7 +476,7 @@ Następnie trzykrotnie wykonaj operację usunięcia największego elementu z kop
 Zilustruj stan kopca po każdym kroku.
 {% endtab %}
 
-{% tab title="4.6" %}
+{% tab title="4.1.6" %}
 Do pustego **kopca dwumianowego typu** _**min-heap**_ wstaw w kolejności elementy o wartościach klucza:
 
 `43, 24, 11, 47, 13, 67, 59, 95, 29, 17, 54, 40`
@@ -486,7 +486,7 @@ Następnie trzykrotnie wykonaj operację usunięcia najmniejszego elementu z kop
 Zilustruj stan kopca po każdym kroku.
 {% endtab %}
 
-{% tab title="4.7" %}
+{% tab title="4.1.7" %}
 Do pustego **kopca Fibonacciego typu** _**min-heap**_ wstaw w kolejności elementy o wartościach klucza:
 
 `43, 24, 11, 47, 13, 67, 59, 95, 29, 17, 54, 40`
