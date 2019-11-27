@@ -9,7 +9,7 @@ description: Zakres materiału obowiązującego na kolokwium
 ### 1.1 **Tablica, std::array, std::vector**
 
 {% tabs %}
-{% tab title="Zakres materiału (1.1)" %}
+{% tab title="1.1 Zakres materiału" %}
 * podstawowe **operacje na tablicy/wektorze** i ich złożoność:
   * dostęp,
   * wstawianie elementu \(na końcu/w środku\),
@@ -23,7 +23,7 @@ description: Zakres materiału obowiązującego na kolokwium
 ### 1.2 **Lista jedno- i dwukierunkowa**
 
 {% tabs %}
-{% tab title="Zakres materiału (1.2)" %}
+{% tab title="1.2 Zakres materiału" %}
 * podstawowe **operacje na liście** i ich złożoność:
   * dostęp,
   * wstawianie elementu,
@@ -32,26 +32,26 @@ description: Zakres materiału obowiązującego na kolokwium
 * **wyszukiwanie ze strażnikiem**
 {% endtab %}
 
-{% tab title="Materiały pomocnicze (1.2)" %}
+{% tab title="1.2 Materiały pomocnicze" %}
 {% hint style="info" %}
 **Ogólne:**
 
-* [https://www.geeksforgeeks.org/data-structures/linked-list/](https://www.geeksforgeeks.org/data-structures/linked-list/)
+* [Linked list data structure (GG)](https://www.geeksforgeeks.org/data-structures/linked-list/)
 
 **Wykorzystanie strażnika:**
 
-* [https://en.wikipedia.org/wiki/Sentinel\_node](https://en.wikipedia.org/wiki/Sentinel_node)
-* [https://stackoverflow.com/a/5384593/308759](https://stackoverflow.com/a/5384593/308759)
+* [Sentinel node (Wikipedia)](https://en.wikipedia.org/wiki/Sentinel_node)
+* [Using sentinel nodes (SO)](https://stackoverflow.com/a/5384593/308759)
 
 **Wizualizacje:**
 
-* [https://visualgo.net/en/list](https://visualgo.net/en/list)
+* [List (VisuAlgo)](https://visualgo.net/en/list)
 {% endhint %}
 {% endtab %}
 {% endtabs %}
 
 {% tabs %}
-{% tab title="Przykładowe zadania (1.2):" %}
+{% tab title="1.2 Zadania:" %}
 {% endtab %}
 
 {% tab title="1.2.1" %}
@@ -104,23 +104,23 @@ Zaimplementuj uproszczony iterator \(tylko operacje `->` i `++` \) po elementach
 ### 1.3 **Kolejka \(FIFO\), stos \(LIFO\)**
 
 {% tabs %}
-{% tab title="Zakres materiału (1.3)" %}
+{% tab title="1.3 Zakres materiału" %}
 * pojęcie **abstrakcyjnego typu danych** \(_abstract data type, ADT_\),
 * **kolejka** i **stos** jako przykłady ADT,
 * implementacja funkcjonalności kolejki i stosu na bazie listy dwukierunkowej
 {% endtab %}
 
-{% tab title="Materiały pomocnicze (1.3)" %}
+{% tab title="1.3 Materiały pomocnicze" %}
 {% hint style="info" %}
 **ADT:**
 
-* [https://en.wikipedia.org/wiki/Queue\_\(abstract\_data\_type\)](https://en.wikipedia.org/wiki/Queue_%28abstract_data_type%29)
-* [https://en.wikipedia.org/wiki/Stack\_\(abstract\_data\_type\)](https://en.wikipedia.org/wiki/Stack_%28abstract_data_type%29)
+* [Queue ADT (Wikipedia)](https://en.wikipedia.org/wiki/Queue_%28abstract_data_type%29)
+* [Stack ADT (Wikipedia)](https://en.wikipedia.org/wiki/Stack_%28abstract_data_type%29)
 
 **Wizualizacje:**
 
-* [https://visualgo.net/en/list?slide=5](https://visualgo.net/en/list?slide=5)
-* [https://visualgo.net/en/list?slide=4](https://visualgo.net/en/list?slide=4)
+* [Queue (VisuAlgo)](https://visualgo.net/en/list?slide=5)
+* [Stack (VisuAlgo)](https://visualgo.net/en/list?slide=4)
 {% endhint %}
 {% endtab %}
 {% endtabs %}
@@ -128,7 +128,7 @@ Zaimplementuj uproszczony iterator \(tylko operacje `->` i `++` \) po elementach
 ### 1.4 Binarne drzewo poszukiwań \(BST\)
 
 {% tabs %}
-{% tab title="Zakres materiału (1.4)" %}
+{% tab title="1.4 Zakres materiału" %}
 * **drzewo binarne**, definicja, podstawowe własności,
 * **binarne drzewo poszukiwań** \(_binary search tree_, _BST_\):
   * podstawowe operacje i ich złożoność:
@@ -143,28 +143,28 @@ Zaimplementuj uproszczony iterator \(tylko operacje `->` i `++` \) po elementach
   * implementacja iteratora dla drzewa
 {% endtab %}
 
-{% tab title="Materiały pomocnicze (1.4)" %}
+{% tab title="1.4 Materiały pomocnicze" %}
 {% hint style="info" %}
 **Ogólne:**
 
-* [https://en.wikipedia.org/wiki/Binary\_tree](https://en.wikipedia.org/wiki/Binary_tree)
-* [https://pl.wikipedia.org/wiki/Binarne\_drzewo\_poszukiwa%C5%84](https://pl.wikipedia.org/wiki/Binarne_drzewo_poszukiwa%C5%84)
-* [https://www.programiz.com/dsa/breadth-first-search-tree](https://www.programiz.com/dsa/breadth-first-search-tree)
+* [Binary tree (Wikipedia)](https://en.wikipedia.org/wiki/Binary_tree)
+* [Binarne drzewo poszukiwań (Wikipedia)](https://pl.wikipedia.org/wiki/Binarne_drzewo_poszukiwa%C5%84)
+* [Binary search tree (Programiz)](https://www.programiz.com/dsa/breadth-first-search-tree)
 
 **Przechodzenie drzewa:**
 
-* [https://en.wikipedia.org/wiki/Tree\_traversal](https://en.wikipedia.org/wiki/Tree_traversal)
-* [https://leetcode.com/problems/binary-search-tree-iterator/solution/](https://leetcode.com/problems/binary-search-tree-iterator/solution/)
+* [Tree traversal (Wikipedia)](https://en.wikipedia.org/wiki/Tree_traversal)
+* [Binary search tree iterator (LeetCode)](https://leetcode.com/problems/binary-search-tree-iterator/solution/)
 
 **Wizualizacje:**
 
-* [https://visualgo.net/en/bst](https://visualgo.net/en/bst)
+* [BST (VisuAlgo)](https://visualgo.net/en/bst)
 {% endhint %}
 {% endtab %}
 {% endtabs %}
 
 {% tabs %}
-{% tab title="Przykładowe zadania (1.4):" %}
+{% tab title="1.4 Zadania" %}
 
 {% endtab %}
 
@@ -196,7 +196,7 @@ Zaimplementuj w klasie drzewa BST funkcjonalność usuwania węzła o zadanej wa
 ### 2.1 Algorytmy sortowania
 
 {% tabs %}
-{% tab title="Zakres materiału (2.1)" %}
+{% tab title="2.1 Zakres materiału" %}
 **Algorytmy:**
 
 * sortowanie przez wybieranie \(_**selection sort**_\),
@@ -215,31 +215,31 @@ Zaimplementuj w klasie drzewa BST funkcjonalność usuwania węzła o zadanej wa
 * stabilność
 {% endtab %}
 
-{% tab title="Materiały pomocnicze (2.1)" %}
+{% tab title="2.1 Materiały pomocnicze" %}
 {% hint style="info" %}
 **Ogólne:**
 
-* [https://en.wikipedia.org/wiki/Sorting\_algorithm](https://en.wikipedia.org/wiki/Sorting_algorithm)
-* [https://en.wikipedia.org/wiki/File:Sorting\_stability\_playing\_cards.svg](https://en.wikipedia.org/wiki/File:Sorting_stability_playing_cards.svg)
-* [https://www.oreilly.com/library/view/algorithms-in-a/9781491912973/ch04.html](https://www.oreilly.com/library/view/algorithms-in-a/9781491912973/ch04.html)
+* [Sorting algorithm (Wikipedia)](https://en.wikipedia.org/wiki/Sorting_algorithm)
+* [Sorting stability (Wikipedia)](https://en.wikipedia.org/wiki/File:Sorting_stability_playing_cards.svg)
+* [Sorting algorithms (O'Reilly)](https://www.oreilly.com/library/view/algorithms-in-a/9781491912973/ch04.html)
 
 **Algorytmy:**
 
-* [selection sort](https://www.w3resource.com/python-exercises/data-structures-and-algorithms/python-search-and-sorting-exercise-5.php)
-* [bubble sort](https://www.w3resource.com/javascript-exercises/javascript-function-exercise-24.php)
-* [insertion sort](https://www.w3resource.com/python-exercises/data-structures-and-algorithms/python-search-and-sorting-exercise-6.php)
-* [quicksort](https://www.w3resource.com/csharp-exercises/searching-and-sorting-algorithm/searching-and-sorting-algorithm-exercise-9.php)
-* [merge sort](https://www.101computing.net/merge-sort-algorithm/)
-* [heapsort](https://www.hackerearth.com/practice/algorithms/sorting/heap-sort/tutorial/)
-* [bucket sort](https://www.programiz.com/dsa/bucket-sort)
+* [Selection sort (w3r)](https://www.w3resource.com/python-exercises/data-structures-and-algorithms/python-search-and-sorting-exercise-5.php)
+* [Bubble sort (w3r)](https://www.w3resource.com/javascript-exercises/javascript-function-exercise-24.php)
+* [Insertion sort (w3r)](https://www.w3resource.com/python-exercises/data-structures-and-algorithms/python-search-and-sorting-exercise-6.php)
+* [Quicksort (w3r)](https://www.w3resource.com/csharp-exercises/searching-and-sorting-algorithm/searching-and-sorting-algorithm-exercise-9.php)
+* [Merge sort (101computing)](https://www.101computing.net/merge-sort-algorithm/)
+* [Heapsort (HackerEarth)](https://www.hackerearth.com/practice/algorithms/sorting/heap-sort/tutorial/)
+* [Bucket sort (Programiz)](https://www.programiz.com/dsa/bucket-sort)
 
 **Wizualizacje:**
 
-* [http://sorting.at/](http://sorting.at/)
-* [https://visualgo.net/en/sorting](https://visualgo.net/en/sorting)
-* [https://www.cs.usfca.edu/~galles/visualization/ComparisonSort.html](https://www.cs.usfca.edu/~galles/visualization/ComparisonSort.html)
-* [https://www.toptal.com/developers/sorting-algorithms](https://www.toptal.com/developers/sorting-algorithms)
-* [https://www.cs.usfca.edu/~galles/visualization/BucketSort.html](https://www.cs.usfca.edu/~galles/visualization/BucketSort.html)
+* [Sorting (sorting.at)](http://sorting.at/)
+* [Sorting (VisuAlgo)](https://visualgo.net/en/sorting)
+* [Comparison sorting (USF)](https://www.cs.usfca.edu/~galles/visualization/ComparisonSort.html)
+* [Sorting algorithms (toptal)](https://www.toptal.com/developers/sorting-algorithms)
+* [Bucket sort (USF)](https://www.cs.usfca.edu/~galles/visualization/BucketSort.html)
 {% endhint %}
 {% endtab %}
 {% endtabs %}
@@ -249,7 +249,7 @@ Zaimplementuj w klasie drzewa BST funkcjonalność usuwania węzła o zadanej wa
 ### 3.1 Drzewa
 
 {% tabs %}
-{% tab title="Zakres materiału (3.1)" %}
+{% tab title="3.1 Zakres materiału" %}
 * drzewa BST zrównoważone i niezrównoważone,
 * **rotacje drzew,**
 * **drzewa splay**:
@@ -268,38 +268,38 @@ Zaimplementuj w klasie drzewa BST funkcjonalność usuwania węzła o zadanej wa
     * usuwanie elementu
 {% endtab %}
 
-{% tab title="Materiały pomocnicze (3.1)" %}
+{% tab title="3.1 Materiały pomocnicze" %}
 {% hint style="info" %}
 **Zrównoważenie drzewa BST:**
 
-* [wyważanie drzewa](https://pl.wikipedia.org/wiki/Binarne_drzewo_poszukiwa%C5%84#Wywa%C5%BCanie_drzewa)
+* [Wyważanie drzewa (Wikipedia)](https://pl.wikipedia.org/wiki/Binarne_drzewo_poszukiwa%C5%84#Wywa%C5%BCanie_drzewa)
 
 **Rotacje:**
 
-* [https://en.wikipedia.org/wiki/Tree\_rotation](https://en.wikipedia.org/wiki/Tree_rotation)
+* [Tree rotation (Wikipedia)](https://en.wikipedia.org/wiki/Tree_rotation)
 
 **Drzewa splay:**
 
-* [https://pl.wikipedia.org/wiki/Drzewo\_splay](https://pl.wikipedia.org/wiki/Drzewo_splay)
-* [https://cs.stackexchange.com/q/1229/8837](https://cs.stackexchange.com/q/1229/8837)
-* [https://www.cs.cmu.edu/~sleator/papers/self-adjusting.pdf](https://www.cs.cmu.edu/~sleator/papers/self-adjusting.pdf)
-* [https://people.eecs.berkeley.edu/~jrs/61b/lec/36](https://people.eecs.berkeley.edu/~jrs/61b/lec/36)
+* [Drzewo splay (Wikipedia)](https://pl.wikipedia.org/wiki/Drzewo_splay)
+* [Splay tree rotation (SE)](https://cs.stackexchange.com/q/1229/8837)
+* [Self-Adjusting Binary Search Trees (CMU)](https://www.cs.cmu.edu/~sleator/papers/self-adjusting.pdf)
+* [Splay trees lecture notes (Berkeley)](https://people.eecs.berkeley.edu/~jrs/61b/lec/36)
 
 **Drzewa AVL:**
 
-* [https://en.wikipedia.org/wiki/AVL\_tree](https://en.wikipedia.org/wiki/AVL_tree)
-* [https://www.codesdope.com/course/data-structures-avl-trees/](https://www.codesdope.com/course/data-structures-avl-trees/)
+* [AVL tree (Wikipedia)](https://en.wikipedia.org/wiki/AVL_tree)
+* [AVL trees (CodesDope)](https://www.codesdope.com/course/data-structures-avl-trees/)
 
 **Wizualizacje:**
 
-* [https://www.cs.usfca.edu/~galles/visualization/SplayTree.html](https://www.cs.usfca.edu/~galles/visualization/SplayTree.html)
-* [https://visualgo.net/en/bst?slide=14](https://visualgo.net/en/bst?slide=14)
+* [Splay tree (USF)](https://www.cs.usfca.edu/~galles/visualization/SplayTree.html)
+* [AVL (VisuAlgo)](https://visualgo.net/en/bst?slide=14)
 {% endhint %}
 {% endtab %}
 {% endtabs %}
 
 {% tabs %}
-{% tab title="Przykładowe zadania (3.1):" %}
+{% tab title="3.1 Zadania:" %}
 
 {% endtab %}
 
@@ -357,7 +357,7 @@ Na stworzonym drzewie przeprowadź operacje:
 ### 4.1 Kopce
 
 {% tabs %}
-{% tab title="Zakres materiału (4.1)" %}
+{% tab title="4.1 Zakres materiału" %}
 * kolejka priorytetowa \(_**priority queue**_, _ADT_\),
 * **kopiec binarny**:
   * własność kopca _**min-heap**_, _**max-heap**_,
@@ -388,49 +388,49 @@ Na stworzonym drzewie przeprowadź operacje:
     * scalanie kopców
 {% endtab %}
 
-{% tab title="Materiały pomocnicze (4.1)" %}
+{% tab title="4.1 Materiały pomocnicze" %}
 {% hint style="info" %}
 **Ogólne:**
 
-* [https://en.wikipedia.org/wiki/Priority\_queue](https://en.wikipedia.org/wiki/Priority_queue)
-* [https://en.wikipedia.org/wiki/Heap\_\(data\_structure\)](https://en.wikipedia.org/wiki/Heap_%28data_structure%29)
-* [https://en.wikipedia.org/wiki/Implicit\_data\_structure](https://en.wikipedia.org/wiki/Implicit_data_structure)
+* [Priority queue ADT (Wikipedia)](https://en.wikipedia.org/wiki/Priority_queue)
+* [Heap (Wikipedia)](https://en.wikipedia.org/wiki/Heap_%28data_structure%29)
+* [Implicit data structure (Wikipedia)](https://en.wikipedia.org/wiki/Implicit_data_structure)
 
 **Kopiec binarny:**
 
-* [https://en.wikipedia.org/wiki/Binary\_heap](https://en.wikipedia.org/wiki/Binary_heap)
-* [https://stackoverflow.com/questions/9755721/how-can-building-a-heap-be-on-time-complexity](https://stackoverflow.com/questions/9755721/how-can-building-a-heap-be-on-time-complexity)
-* [https://brilliant.org/wiki/binary-heap/](https://brilliant.org/wiki/binary-heap/)
+* [Binary heap (Wikipedia)](https://en.wikipedia.org/wiki/Binary_heap)
+* [Building a heap in O(n) time (SO)](https://stackoverflow.com/questions/9755721/how-can-building-a-heap-be-on-time-complexity)
+* [Binary heap (Brilliant)](https://brilliant.org/wiki/binary-heap/)
 
 **Kopce** _**d**_**-arne:**
 
-* [https://en.wikipedia.org/wiki/D-ary\_heap](https://en.wikipedia.org/wiki/D-ary_heap)
-* [https://stackoverflow.com/questions/29126428/binary-heaps-vs-d-ary-heaps](https://stackoverflow.com/questions/29126428/binary-heaps-vs-d-ary-heaps)
-* [https://stackoverflow.com/questions/48843677/why-dont-we-use-ternary-or-quaternary-heaps](https://stackoverflow.com/questions/48843677/why-dont-we-use-ternary-or-quaternary-heaps)
+* [D-ary heap (Wikipedia)](https://en.wikipedia.org/wiki/D-ary_heap)
+* [Binary heap vs d-ary heap (SO)](https://stackoverflow.com/questions/29126428/binary-heaps-vs-d-ary-heaps)
+* [Ternary and quaternary heaps (SO)](https://stackoverflow.com/questions/48843677/why-dont-we-use-ternary-or-quaternary-heaps)
 
 **Kopiec dwumianowy:**
 
-* [https://en.wikipedia.org/wiki/Binomial\_heap](https://en.wikipedia.org/wiki/Binomial_heap)
-* [https://brilliant.org/wiki/binomial-heap/](https://brilliant.org/wiki/binomial-heap/)
-* [https://www.growingwiththeweb.com/data-structures/binomial-heap/overview/](https://www.growingwiththeweb.com/data-structures/binomial-heap/overview/)
+* [Binomial heap (Wikipedia)](https://en.wikipedia.org/wiki/Binomial_heap)
+* [Binomial heap (Brilliant)](https://brilliant.org/wiki/binomial-heap/)
+* [Binomial heap (Growing with the Web](https://www.growingwiththeweb.com/data-structures/binomial-heap/overview/)
 
 **Kopiec Fibonacciego:**
 
-* [https://en.wikipedia.org/wiki/Fibonacci\_heap](https://en.wikipedia.org/wiki/Fibonacci_heap)
-* [https://brilliant.org/wiki/fibonacci-heap/](https://brilliant.org/wiki/fibonacci-heap/)
+* [Fibonacci heap (Wikipedia)](https://en.wikipedia.org/wiki/Fibonacci_heap)
+* [Fibonacci heap (Brilliant)](https://brilliant.org/wiki/fibonacci-heap/)
 
 **Wizualizacje:**
 
-* [https://visualgo.net/en/heap](https://visualgo.net/en/heap)
-* [https://www.cs.usfca.edu/~galles/visualization/Heap.html](https://www.cs.usfca.edu/~galles/visualization/Heap.html)
-* [https://www.cs.usfca.edu/~galles/visualization/BinomialQueue.html](https://www.cs.usfca.edu/~galles/visualization/BinomialQueue.html)
-* [https://www.cs.usfca.edu/~galles/visualization/FibonacciHeap.html](https://www.cs.usfca.edu/~galles/visualization/FibonacciHeap.html)
+* [Heap (VisuAlgo)](https://visualgo.net/en/heap)
+* [Heap (USF)](https://www.cs.usfca.edu/~galles/visualization/Heap.html)
+* [Binomial heap (USF)](https://www.cs.usfca.edu/~galles/visualization/BinomialQueue.html)
+* [Fibonacci heap (USF)](https://www.cs.usfca.edu/~galles/visualization/FibonacciHeap.html)
 {% endhint %}
 {% endtab %}
 {% endtabs %}
 
 {% tabs %}
-{% tab title="Przykładowe zadania (4.1):" %}
+{% tab title="4.1 Zadania:" %}
 
 {% endtab %}
 
