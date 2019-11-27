@@ -36,12 +36,12 @@ description: Zakres materiału obowiązującego na kolokwium
 {% hint style="info" %}
 **Ogólne:**
 
-* [Linked list data structure (GG)](https://www.geeksforgeeks.org/data-structures/linked-list/)
+* [Linked list data structure (Geeks for Geeks)](https://www.geeksforgeeks.org/data-structures/linked-list/)
 
 **Wykorzystanie strażnika:**
 
 * [Sentinel node (Wikipedia)](https://en.wikipedia.org/wiki/Sentinel_node)
-* [Using sentinel nodes (SO)](https://stackoverflow.com/a/5384593/308759)
+* [Using sentinel nodes (Stack Overflow)](https://stackoverflow.com/a/5384593/308759)
 
 **Wizualizacje:**
 
@@ -225,10 +225,10 @@ Zaimplementuj w klasie drzewa BST funkcjonalność usuwania węzła o zadanej wa
 
 **Algorytmy:**
 
-* [Selection sort (w3r)](https://www.w3resource.com/python-exercises/data-structures-and-algorithms/python-search-and-sorting-exercise-5.php)
-* [Bubble sort (w3r)](https://www.w3resource.com/javascript-exercises/javascript-function-exercise-24.php)
-* [Insertion sort (w3r)](https://www.w3resource.com/python-exercises/data-structures-and-algorithms/python-search-and-sorting-exercise-6.php)
-* [Quicksort (w3r)](https://www.w3resource.com/csharp-exercises/searching-and-sorting-algorithm/searching-and-sorting-algorithm-exercise-9.php)
+* [Selection sort (w3resource)](https://www.w3resource.com/python-exercises/data-structures-and-algorithms/python-search-and-sorting-exercise-5.php)
+* [Bubble sort (w3resource)](https://www.w3resource.com/javascript-exercises/javascript-function-exercise-24.php)
+* [Insertion sort (w3resource)](https://www.w3resource.com/python-exercises/data-structures-and-algorithms/python-search-and-sorting-exercise-6.php)
+* [Quicksort (w3resource)](https://www.w3resource.com/csharp-exercises/searching-and-sorting-algorithm/searching-and-sorting-algorithm-exercise-9.php)
 * [Merge sort (101computing)](https://www.101computing.net/merge-sort-algorithm/)
 * [Heapsort (HackerEarth)](https://www.hackerearth.com/practice/algorithms/sorting/heap-sort/tutorial/)
 * [Bucket sort (Programiz)](https://www.programiz.com/dsa/bucket-sort)
@@ -281,8 +281,8 @@ Zaimplementuj w klasie drzewa BST funkcjonalność usuwania węzła o zadanej wa
 **Drzewa splay:**
 
 * [Drzewo splay (Wikipedia)](https://pl.wikipedia.org/wiki/Drzewo_splay)
-* [Splay tree rotation (SE)](https://cs.stackexchange.com/q/1229/8837)
-* [Self-Adjusting Binary Search Trees (CMU)](https://www.cs.cmu.edu/~sleator/papers/self-adjusting.pdf)
+* [Splay tree rotation (Stack Exchange)](https://cs.stackexchange.com/q/1229/8837)
+* [Self-Adjusting Binary Search Trees paper (CMU)](https://www.cs.cmu.edu/~sleator/papers/self-adjusting.pdf)
 * [Splay trees lecture notes (Berkeley)](https://people.eecs.berkeley.edu/~jrs/61b/lec/36)
 
 **Drzewa AVL:**
@@ -399,20 +399,20 @@ Na stworzonym drzewie przeprowadź operacje:
 **Kopiec binarny:**
 
 * [Binary heap (Wikipedia)](https://en.wikipedia.org/wiki/Binary_heap)
-* [Building a heap in O(n) time (SO)](https://stackoverflow.com/questions/9755721/how-can-building-a-heap-be-on-time-complexity)
+* [Building a heap in O(n) time (Stack Overflow)](https://stackoverflow.com/questions/9755721/how-can-building-a-heap-be-on-time-complexity)
 * [Binary heap (Brilliant)](https://brilliant.org/wiki/binary-heap/)
 
 **Kopce** _**d**_**-arne:**
 
 * [D-ary heap (Wikipedia)](https://en.wikipedia.org/wiki/D-ary_heap)
-* [Binary heap vs d-ary heap (SO)](https://stackoverflow.com/questions/29126428/binary-heaps-vs-d-ary-heaps)
-* [Ternary and quaternary heaps (SO)](https://stackoverflow.com/questions/48843677/why-dont-we-use-ternary-or-quaternary-heaps)
+* [Binary heap vs d-ary heap (Stack Overflow)](https://stackoverflow.com/questions/29126428/binary-heaps-vs-d-ary-heaps)
+* [Ternary and quaternary heaps (Stack Overflow)](https://stackoverflow.com/questions/48843677/why-dont-we-use-ternary-or-quaternary-heaps)
 
 **Kopiec dwumianowy:**
 
 * [Binomial heap (Wikipedia)](https://en.wikipedia.org/wiki/Binomial_heap)
 * [Binomial heap (Brilliant)](https://brilliant.org/wiki/binomial-heap/)
-* [Binomial heap (Growing with the Web](https://www.growingwiththeweb.com/data-structures/binomial-heap/overview/)
+* [Binomial heap (Growing with the Web)](https://www.growingwiththeweb.com/data-structures/binomial-heap/overview/)
 
 **Kopiec Fibonacciego:**
 
