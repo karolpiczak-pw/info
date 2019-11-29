@@ -419,6 +419,7 @@ Na stworzonym drzewie przeprowadź operacje:
 
 * [Fibonacci heap \(Wikipedia\)](https://en.wikipedia.org/wiki/Fibonacci_heap)
 * [Fibonacci heap \(Brilliant\)](https://brilliant.org/wiki/fibonacci-heap/)
+* [Fibonacci heap lecture notes \(Princeton\)](https://www.cs.princeton.edu/~wayne/teaching/fibonacci-heap.pdf)
 
 **Wizualizacje:**
 
