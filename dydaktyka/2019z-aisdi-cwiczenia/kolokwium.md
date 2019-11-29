@@ -433,7 +433,7 @@ Na stworzonym drzewie przeprowadź operacje:
 
 {% tabs %}
 {% tab title="4.1 Zadania:" %}
-
+Przykładowe implementacje omawianych kopców dostępne są w [repozytorium z materiałami do przedmiotu](https://github.com/karolpiczak-pw/2019Z-AISDI/tree/master/examples/04-heaps).
 {% endtab %}
 
 {% tab title="4.1.1" %}
