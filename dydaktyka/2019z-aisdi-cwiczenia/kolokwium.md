@@ -481,7 +481,7 @@ Zlicz ilość wykonanych operacji, porównaj z metodą tworzenia kopca przez wst
 {% endtab %}
 
 {% tab title="4.1.5" %}
-Do pustego **kopca 3-arnego \(**_**ternary heap**_**\) typu** _**max-heap**_ _\*\*_wstaw w kolejności elementy o wartościach klucza:
+Do pustego **kopca 3-arnego \(**_**ternary heap**_**\) typu** _**max-heap**_ wstaw w kolejności elementy o wartościach klucza:
 
 `43, 24, 11, 47, 13, 67, 59, 95, 29, 17, 54, 40`
 
