@@ -245,6 +245,12 @@ Zaimplementuj w klasie drzewa BST funkcjonalność usuwania węzła o zadanej wa
 {% endtab %}
 {% endtabs %}
 
+{% tabs %}
+{% tab title="2.1 Zadania:" %}
+Przykładowe implementacje omawianych algorytmów dostępne są w [repozytorium z materiałami do przedmiotu](https://github.com/karolpiczak-pw/2019Z-AISDI/tree/master/examples/02-sorting).
+{% endtab %}
+{% endtabs %}
+
 ## Ćwiczenia 3
 
 ### 3.1 Drzewa
