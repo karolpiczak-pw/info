@@ -6,6 +6,10 @@ description: Zakres materiału obowiązującego na kolokwium
 
 ## Ćwiczenia 1
 
+{% hint style="info" %}
+Przykłady implementacji struktur listowych dostępne są w [repozytorium z materiałami do przedmiotu](https://github.com/karolpiczak-pw/2019Z-AISDI/tree/master/examples/01-list-bst).
+{% endhint %}
+
 ### 1.1 **Tablica, std::array, std::vector**
 
 {% tabs %}
@@ -195,7 +199,7 @@ Zaimplementuj w klasie drzewa BST funkcjonalność usuwania węzła o zadanej wa
 ## Ćwiczenia 2
 
 {% hint style="info" %}
-Przykładowe implementacje omawianych algorytmów dostępne są w [repozytorium z materiałami do przedmiotu](https://github.com/karolpiczak-pw/2019Z-AISDI/tree/master/examples/02-sorting).
+Przykładowe implementacje omawianych algorytmów sortowania dostępne są w [repozytorium z materiałami do przedmiotu](https://github.com/karolpiczak-pw/2019Z-AISDI/tree/master/examples/02-sorting).
 {% endhint %}
 
 ### 2.1 Algorytmy sortowania
