@@ -194,6 +194,10 @@ Zaimplementuj w klasie drzewa BST funkcjonalność usuwania węzła o zadanej wa
 
 ## Ćwiczenia 2
 
+{% hint style="info" %}
+Przykładowe implementacje omawianych algorytmów dostępne są w [repozytorium z materiałami do przedmiotu](https://github.com/karolpiczak-pw/2019Z-AISDI/tree/master/examples/02-sorting).
+{% endhint %}
+
 ### 2.1 Algorytmy sortowania
 
 {% tabs %}
@@ -242,12 +246,6 @@ Zaimplementuj w klasie drzewa BST funkcjonalność usuwania węzła o zadanej wa
 * [Sorting algorithms \(toptal\)](https://www.toptal.com/developers/sorting-algorithms)
 * [Bucket sort \(USF\)](https://www.cs.usfca.edu/~galles/visualization/BucketSort.html)
 {% endhint %}
-{% endtab %}
-{% endtabs %}
-
-{% tabs %}
-{% tab title="2.1 Zadania:" %}
-Przykładowe implementacje omawianych algorytmów dostępne są w [repozytorium z materiałami do przedmiotu](https://github.com/karolpiczak-pw/2019Z-AISDI/tree/master/examples/02-sorting).
 {% endtab %}
 {% endtabs %}
 
@@ -361,6 +359,10 @@ Na stworzonym drzewie przeprowadź operacje:
 
 ## Ćwiczenia 4
 
+{% hint style="info" %}
+Przykładowe implementacje omawianych kopców dostępne są w [repozytorium z materiałami do przedmiotu](https://github.com/karolpiczak-pw/2019Z-AISDI/tree/master/examples/04-heaps).
+{% endhint %}
+
 ### 4.1 Kopce
 
 {% tabs %}
@@ -439,7 +441,7 @@ Na stworzonym drzewie przeprowadź operacje:
 
 {% tabs %}
 {% tab title="4.1 Zadania:" %}
-Przykładowe implementacje omawianych kopców dostępne są w [repozytorium z materiałami do przedmiotu](https://github.com/karolpiczak-pw/2019Z-AISDI/tree/master/examples/04-heaps).
+
 {% endtab %}
 
 {% tab title="4.1.1" %}
