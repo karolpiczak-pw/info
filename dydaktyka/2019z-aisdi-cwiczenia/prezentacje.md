@@ -18,7 +18,7 @@ Slajdy do prezentacji \(maksymalnie 5 slajdów\) proszę przesłać mailowo prze
 | Lp. | Temat prezentacji | Grupa 102 | Grupa 103 | Grupa 105 |
 | :--- | :--- | :--- | :--- | :--- |
 | 1 | [algorytm Knutha-Morrisa-Pratta](https://en.wikipedia.org/wiki/Knuth%E2%80%93Morris%E2%80%93Pratt_algorithm) | - | - | _wolny_ |
-| 2 | [algorytm Boyera-Moore'a](https://en.wikipedia.org/wiki/Boyer%E2%80%93Moore_string-search_algorithm) | - | _wolny_ | _wolny_ |
+| 2 | [algorytm Boyera-Moore'a](https://en.wikipedia.org/wiki/Boyer%E2%80%93Moore_string-search_algorithm) | - | - | _wolny_ |
 | 3 | [algorytm Rabina-Karpa](https://en.wikipedia.org/wiki/Rabin%E2%80%93Karp_algorithm) | - | - | _wolny_ |
 | 4 | [algorytm Aho-Corasick](https://en.wikipedia.org/wiki/Aho%E2%80%93Corasick_algorithm) | - | _wolny_ | _wolny_ |
 | 5 | [algorytm _bitap_ \(_shift-and_\)](https://en.wikipedia.org/wiki/Bitap_algorithm) | - | _wolny_ | _wolny_ |
