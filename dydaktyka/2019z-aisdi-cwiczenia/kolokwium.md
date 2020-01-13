@@ -5,8 +5,11 @@ description: Zakres materiału obowiązującego na kolokwium
 # Kolokwium
 
 {% hint style="warning" %}
+* \*\*\*\*[**Arkusz odpowiedzi dla wersji A kolokwium**](https://files.pw.karolpiczak.com/2019Z-AISDI-Kolokwium-A-odp.pdf)\*\*\*\*
+* \*\*\*\*[**Arkusz odpowiedzi dla wersji B kolokwium**](https://files.pw.karolpiczak.com/2019Z-AISDI-Kolokwium-B-odp.pdf)
 * \*\*\*\*[**Arkusz odpowiedzi dla wersji C kolokwium**](https://files.pw.karolpiczak.com/2019Z-AISDI-Kolokwium-C-odp.pdf)\*\*\*\*
-* \*\*\*\*[**Arkusz odpowiedzi dla wersji D kolokwium**](https://files.pw.karolpiczak.com/2019Z-AISDI-Kolokwium-D-odp.pdf)\*\*\*\*
+* \*\*\*\*[**Arkusz odpowiedzi dla wersji D kolokwium**](https://files.pw.karolpiczak.com/2019Z-AISDI-Kolokwium-D-odp.pdf) ****
+* \*\*\*\*[**Arkusz oceniania dla wersji A/B kolokwium**](https://files.pw.karolpiczak.com/2019Z-AISDI-Kolokwium-Ocenianie-AB.pdf)\*\*\*\*
 * \*\*\*\*[**Arkusz oceniania dla wersji C/D kolokwium**](https://files.pw.karolpiczak.com/2019Z-AISDI-Kolokwium-Ocenianie-CD.pdf)\*\*\*\*
 {% endhint %}
 
