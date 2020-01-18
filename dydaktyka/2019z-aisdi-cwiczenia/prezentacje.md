@@ -31,7 +31,7 @@ Slajdy do prezentacji \(maksymalnie 5 slajdów\) proszę przesłać mailowo prze
 | Lp. | Temat prezentacji | Grupa 102 | Grupa 103 | Grupa 105 |
 | :--- | :--- | :--- | :--- | :--- |
 | 1 | [algorytm Prima](https://en.wikipedia.org/wiki/Prim%27s_algorithm) | - | - | - |
-| 2 | [algorytm Kruskala](https://en.wikipedia.org/wiki/Kruskal%27s_algorithm) | _wolny_ | _wolny_ | - |
+| 2 | [algorytm Kruskala](https://en.wikipedia.org/wiki/Kruskal%27s_algorithm) | - | _wolny_ | - |
 | 3 | [algorytm Bellmana-Forda](https://en.wikipedia.org/wiki/Bellman%E2%80%93Ford_algorithm) | - | _wolny_ | - |
 | 4 | [algorytm Dijkstry](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm) | - | - | - |
 | 5 | [algorytm A\*](https://en.wikipedia.org/wiki/A*_search_algorithm) | - | - | - |
