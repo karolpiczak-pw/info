@@ -2,7 +2,7 @@
 
 ![](.gitbook/assets/karolpiczak-2019.png)
 
-dr Karol Jerzy Piczak  
+[dr Karol Jerzy Piczak](https://www.karolpiczak.com)  
 Adiunkt, [Zakład Sztucznej Inteligencji](http://ai.ii.pw.edu.pl/), [Instytut Informatyki](http://ii.pw.edu.pl)
 
 * [https://pw.karolpiczak.com](https://pw.karolpiczak.com)  
