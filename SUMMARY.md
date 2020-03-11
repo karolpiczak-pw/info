@@ -18,6 +18,6 @@
 ## Linki
 
 * [Zapisy na konsultacje](https://calendly.com/karolpiczak/)
-* [Materiały na GitHub](https://github.com/karolpiczak-pw)
 * [GitLab wydziałowy](https://gitlab-stud.elka.pw.edu.pl/)
+* [Materiały na GitHub](https://github.com/karolpiczak-pw)
 
