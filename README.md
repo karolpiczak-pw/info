@@ -5,7 +5,7 @@
 [dr Karol Jerzy Piczak](https://www.karolpiczak.com)  
 Adiunkt, [Zakład Sztucznej Inteligencji](http://ai.ii.pw.edu.pl/), [Instytut Informatyki](http://ii.pw.edu.pl)
 
-* [https://pw.karolpiczak.com](https://pw.karolpiczak.com)  
+* [https://www.karolpiczak.com](https://www.karolpiczak.com)  
 * [karol.piczak@pw.edu.pl](mailto:karol.piczak@pw.edu.pl)  
 * p. 26, gmach WEiTI \(parter\)  
 
@@ -13,7 +13,7 @@ Adiunkt, [Zakład Sztucznej Inteligencji](http://ai.ii.pw.edu.pl/), [Instytut In
 
 W semestrze letnim 2019/2020:
 
-* piątki w godzinach 12:30-13:30, pokój 26 - **po zapisaniu się w** [**kalendarzu**](https://calendly.com/karolpiczak/),
+* czwartki w godzinach 14:00-15:00, zdalnie - **po zapisaniu się w** **kalendarzu**,
 * w kalendarzu mogą się również pojawiać inne dostępne terminy na najbliższe dwa tygodnie.
 
 ## Dane kontaktowe
