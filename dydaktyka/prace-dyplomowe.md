@@ -1,10 +1,24 @@
 ---
-description: Proponowane tematy prac dyplomowych.
+description: Proponowane i realizowane tematy prac dyplomowych.
 ---
 
 # Prace dyplomowe
 
-### \[inż.\] **Aktywne uczenie modeli klasyfikacji dźwięku**
+## Tematyka prac
+
+* sztuczne sieci neuronowe, uczenie maszynowe,
+* klasyfikacja dźwięku,
+* biologiczne inspiracje w sieciach neuronowych.
+
+## Tematy realizowane
+
+### \[MGR\] Plastyczność modeli sztucznych sieci neuronowych w uczeniu ciągłym
+
+### \[MGR\] Kompresja modeli klasyfikacji dźwięku
+
+### \[INŻ\] Aplikacja internetowa do rozpoznawania progresji akordów za pomocą metod sztucznej inteligencji
+
+### \[INŻ\] **Aktywne uczenie modeli klasyfikacji dźwięku**
 
 #### Zarys problemu
 
@@ -23,7 +37,7 @@ Celem pracy jest stworzenie prostej aplikacji webowej, która umożliwiałaby in
 * **Edycja pracy:** _LaTeX_ \(np. przez [Overleaf.com](https://www.overleaf.com/)\) 
 * **Sprzęt:** W ramach zasobów Zakładu Sztucznej Inteligencji dostęp do systemu z GPU GeForce RTX 2080 Super \(Ubuntu\)
 
-### **\[inż.\] Klasyfikacja nagrań dźwiękowych ptaków za pomocą modeli ze skupianiem uwagi**
+### **\[INŻ\] Klasyfikacja nagrań dźwiękowych ptaków za pomocą modeli ze skupianiem uwagi**
 
 **Zarys problemu**
 
