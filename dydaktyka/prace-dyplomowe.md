@@ -10,7 +10,7 @@ description: Proponowane i realizowane tematy prac dyplomowych.
 * klasyfikacja dźwięku,
 * biologiczne inspiracje w sieciach neuronowych.
 
-## Tematy w trakcie realizacji
+## Tematy obecnie realizowane przez dyplomantów
 
 ### \[MGR\] Continual learning in audio classification tasks
 
