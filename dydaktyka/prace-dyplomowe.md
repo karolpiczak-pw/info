@@ -18,13 +18,13 @@ description: Proponowane i realizowane tematy prac dyplomowych.
 
 ### \[MGR\] Kompresja modeli klasyfikacji dźwięku
 
-### \[INŻ\] Aplikacja internetowa do rozpoznawania progresji akordów za pomocą metod sztucznej inteligencji
+### ~~\[INŻ\] Aplikacja internetowa do rozpoznawania progresji akordów za pomocą metod sztucznej inteligencji~~
 
 ### \[INŻ\] **Aktywne uczenie modeli klasyfikacji dźwięku**
 
 #### Zarys problemu
 
-Uczenie aktywne \([_active learning_](https://en.wikipedia.org/wiki/Active_learning_%28machine_learning%29)\) jest formą uczenia maszynowego, w którym algorytm uczący może interaktywnie pytać użytkownika o etykiety dla wybranych przykładów. Ta forma jest szczególnie użyteczna, gdy dysponujemy zbiorem danych bez adnotacji, a koszt ręcznego etykietowania całego zbioru danych jest zbyt duży. 
+Uczenie aktywne \([_active learning_](https://en.wikipedia.org/wiki/Active_learning_%28machine_learning%29)\) jest formą uczenia maszynowego, w którym algorytm uczący może interaktywnie pytać użytkownika o etykiety dla wybranych przykładów. Ta forma jest szczególnie użyteczna, gdy dysponujemy zbiorem danych bez adnotacji, a koszt ręcznego etykietowania całego zbioru danych jest zbyt duży.
 
 #### Cel i etapy pracy
 
@@ -43,7 +43,7 @@ Celem pracy jest stworzenie prostej aplikacji webowej, która umożliwiałaby in
 
 **Zarys problemu**
 
-Charakterystyczną cechą problemu klasyfikacji gatunków ptaków w nagraniach dźwiękowych jest niewielki udział użytecznego sygnału uczącego \(poszczególnych wokalizacji\) w stosunku do całości nagrania \(zarówno w dziedzinie czasu, jak i częstotliwości\). W takiej sytuacji jednym ze sposobów poprawy efektów uczenia sztucznych sieci neuronowych jest mechanizm skupiania uwagi \([_attention mechanism_](http://akosiorek.github.io/ml/2017/10/14/visual-attention.html)\), który koncentruje sieć na najważniejszych fragmentach nagrania. 
+Charakterystyczną cechą problemu klasyfikacji gatunków ptaków w nagraniach dźwiękowych jest niewielki udział użytecznego sygnału uczącego \(poszczególnych wokalizacji\) w stosunku do całości nagrania \(zarówno w dziedzinie czasu, jak i częstotliwości\). W takiej sytuacji jednym ze sposobów poprawy efektów uczenia sztucznych sieci neuronowych jest mechanizm skupiania uwagi \([_attention mechanism_](http://akosiorek.github.io/ml/2017/10/14/visual-attention.html)\), który koncentruje sieć na najważniejszych fragmentach nagrania.
 
 **Cel i etapy pracy**
 
