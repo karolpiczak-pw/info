@@ -23,3 +23,7 @@
 * [GitLab wydziałowy](https://gitlab-stud.elka.pw.edu.pl/)
 * [Materiały na GitHub](https://github.com/karolpiczak-pw)
 
+## Admin
+
+* [Edit on GitBook](https://app.gitbook.com/@karolpiczak/s/karolpiczak-pw/)
+
