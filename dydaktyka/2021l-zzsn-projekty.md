@@ -41,7 +41,7 @@ Niejasności można wyjaśniać poprzez MS Teams lub na konsultacjach \(po [zapi
 
 ### Harmonogram
 
-Wyszczególnione daty oznaczają termin na koniec dnia \(23:59\). Przez dostarczenie materiałów rozumiany jest _commit_ w dedykowanym dla projektu repozytorium udostępnionym przeze mnie.
+Wyszczególnione daty oznaczają termin na koniec dnia \(23:59\). Przez dostarczenie materiałów rozumiany jest _commit_ w udostępnionym przeze mnie repozytorium dedykowanym dla projektu.
 
 <table>
   <thead>
@@ -54,7 +54,7 @@ Wyszczególnione daty oznaczają termin na koniec dnia \(23:59\). Przez dostarcz
     <tr>
       <td style="text-align:left">19.03.2021 (pi&#x105;tek)</td>
       <td style="text-align:left">Zg&#x142;oszenie sk&#x142;ad&#xF3;w zespo&#x142;&#xF3;w wraz z preferencjami
-        temat&#xF3;w</td>
+        temat&#xF3;w i loginami na GitHubie</td>
     </tr>
     <tr>
       <td style="text-align:left">22.03.2021 (poniedzia&#x142;ek)</td>
