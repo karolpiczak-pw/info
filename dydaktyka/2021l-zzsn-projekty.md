@@ -92,7 +92,7 @@ Wyszczególnione daty oznaczają termin na koniec dnia \(23:59\). Przez dostarcz
 | 2 | **Generowanie twarzy postaci z filmów animowanych za pomocą sieci GAN** |
 | 3 | **Detekcja maseczek ochronnych na zdjęciach z wykorzystaniem detektora YOLO** |
 | 4 | **Usuwanie tła za pomocą sieci typu U-Net** |
-| 5 | **Segmentacja obrazów lotniczych za pomocą sieci typu U-Net** |
+| 5 | **Segmentacja zdjęć lotniczych za pomocą sieci typu U-Net** |
 | 6 | **Wykorzystanie sieci impulsowej do klasyfikacji dźwięku** |
 | 7 | **Przeciwstawne uczenie ciągłe klasyfikatorów dźwiękowych** |
 | 8 | **Rezydualne uczenie ciągłe klasyfikatorów obrazowych** |
@@ -154,7 +154,7 @@ W ramach podsumowania proszę przetestować działanie narzędzia na własnych z
 Do rozwiązania można też wykorzystać inne podejście niż wykorzystanie sieci U-Net.
 {% endhint %}
 
-**5. Segmentacja obrazów lotniczych za pomocą sieci typu U-Net**
+**5. Segmentacja zdjęć lotniczych za pomocą sieci typu U-Net**
 
 {% hint style="info" %}
 Celem projektu jest stworzenie narzędzia do segmentacji zdjęć lotniczych wykorzystującego sieć typu U-Net.
