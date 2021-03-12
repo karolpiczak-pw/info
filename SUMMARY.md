@@ -5,6 +5,7 @@
 ## Dydaktyka
 
 * [Prace dyplomowe](dydaktyka/prace-dyplomowe.md)
+* [2021L-ZZSN - projekty](dydaktyka/2021l-zzsn-projekty.md)
 * [2020Z-ARKO - ćwiczenia](dydaktyka/2020z-arko-cwiczenia.md)
 * [2020L-AISDI - laboratoria](dydaktyka/2020l-aisdi-laboratoria.md)
 * [2019Z-AISDI - ćwiczenia](dydaktyka/2019z-aisdi-cwiczenia/README.md)

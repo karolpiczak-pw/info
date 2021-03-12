@@ -11,9 +11,9 @@ Adiunkt, [Zakład Sztucznej Inteligencji](http://ai.ii.pw.edu.pl/), [Instytut In
 
 ## Konsultacje
 
-W semestrze zimowym 2020/2021:
+W semestrze letnim 2020/2021:
 
-* czwartki w godzinach 11:00-12:00, zdalnie - **po zapisaniu się w** [**kalendarzu**](https://calendly.com/karolpiczak/),
+* środy w godzinach 11:00-12:00, zdalnie - **po zapisaniu się w** [**kalendarzu**](https://calendly.com/karolpiczak/),
 * w kalendarzu mogą się również pojawiać inne dostępne terminy na najbliższe dwa tygodnie.
 
 ## Dane kontaktowe
