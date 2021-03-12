@@ -54,7 +54,8 @@ Wyszczególnione daty oznaczają termin na koniec dnia \(23:59\). Przez dostarcz
     <tr>
       <td style="text-align:left">19.03.2021 (pi&#x105;tek)</td>
       <td style="text-align:left">Zg&#x142;oszenie sk&#x142;ad&#xF3;w zespo&#x142;&#xF3;w wraz z preferencjami
-        temat&#xF3;w i loginami na GitHubie</td>
+        temat&#xF3;w
+        <br />(prosz&#x119; do&#x142;&#x105;czy&#x107; loginy na GitHubie)</td>
     </tr>
     <tr>
       <td style="text-align:left">22.03.2021 (poniedzia&#x142;ek)</td>
