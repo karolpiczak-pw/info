@@ -17,7 +17,7 @@ Część projektowa zajęć z _Zaawansowanych zagadnień sieci neuronowych_ pole
 
 Projekty realizowane są w zespołach dwuosobowych. Celem projektu jest rozwiązanie problemu o charakterze użytkowym lub badawczym i jednoczesne zrozumienie danego zagadnienia przez zespół. Oznacza to, że przy realizacji można się posiłkować publicznymi implementacjami, ale nie zwalnia to zespołu z przygotowania się do dokładnego wytłumaczenia zasady działania prezentowanego rozwiązania.
 
-Projekty powinny być realizowane w języku _Python 3.8+_ z wykorzystaniem biblioteki _PyTorch,_ ewentualnie _TensorFlow_. Sugerowanym podejściem do ustrukturyzowania kodu jest wykorzystanie biblioteki _PyTorch Lightning_. __Szkielet takiego rozwiązania zostanie udostępniony w późniejszym okresie.
+Projekty powinny być realizowane w języku _Python 3.8+_ z wykorzystaniem biblioteki _PyTorch,_ ewentualnie _TensorFlow_. Sugerowanym podejściem do ustrukturyzowania kodu jest wykorzystanie biblioteki _PyTorch Lightning_. __Szkielet takiego rozwiązania dostępny jest w repozytorium [2021L-ZZSN/template](https://github.com/2021L-ZZSN/template/).
 
 Dodatkowe informacje udostępniane będą na bieżąco w zespole MS Teams przedmiotu.
 
