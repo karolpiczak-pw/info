@@ -67,16 +67,28 @@ Wyszczególnione daty oznaczają termin na koniec dnia \(23:59\). Przez dostarcz
       <td style="text-align:left">Dostarczenie dokumentacji wst&#x119;pnej</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>2.06.2021 (&#x15B;roda)</b>
+      <td style="text-align:left">
+        <p><del><em><b>2.06.2021 (&#x15B;roda)</b></em></del>
+        </p>
+        <p><b>8.06.2021 (wtorek)</b>
+        </p>
       </td>
       <td style="text-align:left">Dostarczenie kodu &#x17A;r&#xF3;d&#x142;owego i dokumentacji ko&#x144;cowej</td>
     </tr>
     <tr>
-      <td style="text-align:left">7-11.06.2021</td>
+      <td style="text-align:left">
+        <p><del><em>7-11.06.2021</em></del>
+        </p>
+        <p>9-11.06.2021</p>
+      </td>
       <td style="text-align:left">Prezentacje i ocena projekt&#xF3;w</td>
     </tr>
     <tr>
-      <td style="text-align:left">16.06.2021 (&#x15B;roda)</td>
+      <td style="text-align:left">
+        <p><del><em>16.06.2021 (&#x15B;roda)</em></del>
+        </p>
+        <p>18.06.2021 (pi&#x105;tek)</p>
+      </td>
       <td style="text-align:left">
         <p>Ostateczny termin na oddanie projektu z kar&#x105; -10 punkt&#xF3;w</p>
         <p>(po tym terminie projekty nie b&#x119;d&#x105; oceniane)</p>
