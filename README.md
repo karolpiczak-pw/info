@@ -4,7 +4,7 @@
 
 [dr Karol Jerzy Piczak](https://www.karolpiczak.com)  
 ~~Adiunkt,~~ [~~Zakład Sztucznej Inteligencji~~](http://ai.ii.pw.edu.pl/)~~,~~ [~~Instytut Informatyki~~](http://ii.pw.edu.pl)  
-~~~~\(_obecnie nie prowadzę już zajęć na PW_\)
+~~~~\(_obecnie nie pracuję już na PW, materiały udostępnione w celach archiwalnych_\)
 
 * [https://www.karolpiczak.com](https://www.karolpiczak.com)  
 * [~~karol.piczak@pw.edu.pl~~](mailto:karol.piczak@pw.edu.pl)  [karol@piczak.com](mailto:karol@piczak.com)
